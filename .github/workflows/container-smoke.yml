@@ -1,0 +1,28 @@
+name: Isolated Linux container smoke
+
+# Explicitly dispatched against the public snapshot. Never runs for a push, PR,
+# private archive, production server or real provider credentials.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: isolated-container-smoke-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  containers:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - name: Check out the public source only
+        # Official actions/checkout v6, pinned to a fixed upstream commit.
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+      - name: Build and verify the temporary stack
+        run: python3 deploy/container_smoke.py
