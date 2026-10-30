@@ -1,0 +1,88 @@
+.inventory { min-width: 0; }
+.inventoryHeading { display:flex; justify-content:space-between; align-items:center; gap:12px; margin:3px 0 12px; }
+.inventoryCount { font-size:12px; color:var(--muted); }
+.storageTabs { display:flex; align-items:center; gap:8px; margin-bottom:22px; flex-wrap:wrap; }
+.storageTabs button { display:inline-flex; align-items:center; justify-content:center; gap:6px; min-height:42px; padding:8px 13px; background:transparent; border:1px solid var(--line); border-radius:24px; color:var(--muted); font-size:12px; }
+.storageTabs button.selected { background:var(--green); border-color:var(--green); color:var(--surface); }
+.storageTabs button span { font-size:10px; opacity:.75; }
+.storageTabs button:hover:not(.selected) { background:var(--soft); }
+.inventoryGrid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; align-items:start; }
+.foodCard { min-width:0; border:1px solid var(--line); border-radius:19px; background:var(--surface); overflow:hidden; transition:border-color .16s ease,box-shadow .16s ease; }
+.foodCard:hover { border-color:#c2cab4; box-shadow:0 6px 16px #344b3206; }
+.foodCard.attention { border-color:#d7c7a9; }
+.expanded { grid-column:1/-1; }
+.cardTrigger { padding:0; border:0; background:transparent; color:var(--ink); width:100%; text-align:left; display:block; border-radius:18px; }
+.cardTrigger:active { transform:none!important; }
+.cardTrigger:focus-visible { outline-offset:-3px; }
+.illustration { height:119px; display:flex; justify-content:center; align-items:center; position:relative; overflow:hidden; color:#6c835c; background:#edf0e2; }
+.illustration>svg { transform:rotate(-9deg); position:relative; z-index:1; }
+.illustration.frozen { background:#e9eeeb; color:#6e8b82; }
+.illustration.ambient { background:#f1eadb; color:#9a865c; }
+.illustration.unclassified { background:#efede7; color:#918c7b; }
+.storeBadge { position:absolute; left:13px; top:10px; display:inline-flex; align-items:center; gap:4px; font-size:10px; color:var(--ink); opacity:.65; }
+.leafAccent { position:absolute; right:-10px; bottom:-5px; transform:rotate(-35deg); opacity:.16; }
+.cardSummary { display:grid; padding:15px 15px 14px; gap:8px; min-width:0; }
+.cardName { display:flex; align-items:center; justify-content:space-between; gap:8px; font-size:15px; font-weight:600; overflow-wrap:anywhere; }
+.cardName svg { flex-shrink:0; color:#929b84; transition:transform .15s; }
+.turned { transform:rotate(180deg); }
+.progressLabel { font-size:12px; color:#6b795c; line-height:1.6; overflow-wrap:anywhere; }
+.pendingLabel { color:var(--amber); }
+.miniProgress { appearance:none; border:0; background:#e8eadd; width:100%; height:5px; border-radius:8px; overflow:hidden; color:#91a277; }
+.miniProgress::-webkit-progress-bar { background:#e8eadd; border-radius:8px; }
+.miniProgress::-webkit-progress-value { background:#91a277; border-radius:8px; }
+.miniProgress::-moz-progress-bar { background:#91a277; border-radius:8px; }
+.cardDate { display:flex; align-items:center; gap:6px; font-size:10px; color:var(--muted); }
+.cardDetail { padding:20px 24px 24px; border-top:1px solid var(--line); }
+.cardDetail h3 { margin-bottom:4px; }
+.cardDetail :global(.expiry-progress) { margin-top:16px; }
+.foodActions { display:flex; align-items:center; gap:8px 14px; flex-wrap:wrap; border-top:1px solid var(--line); padding-top:10px; margin-top:16px; }
+.expanded .cardTrigger { display:grid; grid-template-columns:132px minmax(0,1fr); align-items:center; }
+.expanded .illustration { height:118px; }
+.expanded .cardSummary { padding:18px 22px; }
+.expanded .miniProgress { max-width:380px; }
+.empty { padding:58px 20px; text-align:center; border:1px dashed #d6dcc9; border-radius:20px; background:#f0f1e655; color:var(--muted); }
+.empty>svg { margin:0 auto 17px; color:#92a07b; }
+.empty h3 { justify-content:center; font-family:var(--display); font-size:20px; font-weight:500; }
+.empty p { font-size:12px; }
+.archive { margin-top:28px; }
+.archive>.inventoryGrid { margin-top:15px; }
+.fieldset { border:0; padding:0; margin:0; min-width:0; }
+.fieldset label { min-width:0; }
+.fieldset input,.fieldset select { min-height:44px; max-width:100%; }
+.reminderDialog { width:min(560px,calc(100vw - 28px)); max-height:calc(100dvh - 36px); padding:0; border:1px solid var(--line); border-radius:24px; background:var(--surface); color:var(--ink); box-shadow:0 20px 90px #273b3026; }
+.reminderDialog::backdrop { background:#233c2e45; backdrop-filter:blur(3px); }
+.dialogContent { padding:27px; }
+.dialogHeading { display:flex; align-items:flex-start; justify-content:space-between; gap:12px; margin-bottom:24px; }
+.dialogHeading h2 { font-size:27px; margin-top:6px; }
+.notificationDetails { margin-top:25px; }
+.notificationDetails :global(.panel) { border:0; background:transparent; padding:10px 0; margin-top:0; }
+.notificationDetails :global(summary) { font-size:12px; }
+.dialogContent form>:global(.primary) { width:100%; margin-top:8px; }
+@media(max-width:850px) {
+  .inventoryGrid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+}
+@media(max-width:600px) {
+  .inventoryGrid { gap:12px; }
+  .storageTabs { gap:6px; margin-bottom:18px; }
+  .storageTabs button { padding:7px 10px; font-size:11px; gap:4px; }
+  .storageTabs button svg { width:13px; }
+  .illustration { height:111px; }
+  .cardSummary { padding:13px 12px; gap:7px; }
+  .cardName { font-size:14px; }
+  .progressLabel { font-size:11px; }
+  .cardDate { font-size:10px; }
+  .cardDetail { padding:17px 16px; }
+  .expanded .cardTrigger { grid-template-columns:104px minmax(0,1fr); }
+  .expanded .cardSummary { padding:15px; }
+  .expanded .illustration { height:112px; }
+  .fieldset { grid-template-columns:1fr; }
+  .fieldset input,.fieldset select { font-size:16px; }
+  .dialogContent { padding:22px 19px; }
+  .foodActions { gap:5px 13px; }
+  .foodActions button { font-size:12px; }
+}
+@media(max-width:350px) {
+  .inventoryGrid { grid-template-columns:1fr; }
+  .storageTabs { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .expanded .cardTrigger { grid-template-columns:89px minmax(0,1fr); }
+}

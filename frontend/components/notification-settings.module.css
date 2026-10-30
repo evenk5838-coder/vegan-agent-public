@@ -1,0 +1,8 @@
+.panel { min-width: 0; }
+.levels { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 0; gap: 12px; list-style: none; margin: 20px 0; }
+.levels li { padding: 14px; border: 1px solid var(--line, #e1e7dc); border-radius: 12px; display: grid; gap: 8px; }
+.levels strong, .task strong { font-size: 13px; font-weight: 600; }
+.levels span, .task span, .task small { font-size: 12px; color: var(--muted, #6b7563); line-height: 1.65; }
+.tasks { margin-top: 12px; display: grid; gap: 8px; }
+.task { display: grid; gap: 5px; border-bottom: 1px solid var(--line, #e1e7dc); padding: 12px 0; }
+@media (max-width: 540px) { .levels { grid-template-columns: 1fr; } }

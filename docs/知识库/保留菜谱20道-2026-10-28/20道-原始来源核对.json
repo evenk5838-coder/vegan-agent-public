@@ -1,0 +1,3148 @@
+{
+  "batch_id": "howtocook-chinese-pre-review-20-2026-10-26",
+  "source_commit": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+  "rules_version": "ingredients-2026-10-26.2",
+  "rules_source_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+  "count": 20,
+  "published": 0,
+  "manual_reviewed": 0,
+  "ai_source_checked": 20,
+  "approval_status": "not_approved",
+  "boundary": "20 specific Chinese source pre-reviews; not 20 published or certified recipes",
+  "entries": [
+    {
+      "type": "recipe",
+      "title": "糖拌西红柿",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E7%B3%96%E6%8B%8C%E8%A5%BF%E7%BA%A2%E6%9F%BF/%E7%B3%96%E6%8B%8C%E8%A5%BF%E7%BA%A2%E6%9F%BF.md",
+      "status": "draft",
+      "ingredients": [
+        "西红柿 2 个（每个约100g，共200g）",
+        "白砂糖 20g"
+      ],
+      "steps": [
+        "用刀将西红柿皮米字型划开",
+        "用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边",
+        "把西红柿的衣服脱光",
+        "再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用",
+        "全部切好后，将西红柿在盘子中均匀码一层",
+        "撒上白糖，重复上面一步直到全部西红柿放完",
+        "放入冰箱冷藏 10 分钟",
+        "一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻"
+      ],
+      "notes": [
+        "在制作过程中 请您小心使用刀具。"
+      ],
+      "servings_text": "一份正好够 2 人吃。\n每份：",
+      "servings": 2,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "source_open_flame_peeling_requires_review"
+        ],
+        "source_servings_text": "一份正好够 2 人吃。\n每份：",
+        "content_sha256": "0a17cd82ca74f182fdd543842535beac063179b47bfdf55135f76b8a1101f822",
+        "reviewed_source_sha256": "0a17cd82ca74f182fdd543842535beac063179b47bfdf55135f76b8a1101f822",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 糖拌西红柿的做法\n\n![糖拌西红柿-预览图-1](./火山飘雪.jpg)\n\n这是一道适合夏季的家常凉菜，酸甜爽口，制作简便。西红柿富含维生素 C，开胃解腻。新手也能轻松完成，整个过程（包含冷藏）约 15 分钟即可上桌。\n\n预估烹饪难度：★★\n\n预估卡路里：104 大卡\n\n## 必备原料和工具\n\n- 西红柿\n- 白砂糖\n- 冰箱\n\n## 计算\n\n一份正好够 2 人吃。\n\n每份：\n\n- 西红柿 2 个（每个西红柿约 100g，共 200g）\n- 白砂糖 20g\n\n## 操作\n\n1. 用刀将西红柿皮米字型划开\n2. 用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边\n3. 把西红柿的衣服脱光\n4. 再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用\n5. 全部切好后，将西红柿在盘子中均匀码一层\n6. 撒上白糖，重复上面一步直到全部西红柿放完\n7. 放入冰箱冷藏 10 分钟\n8. 一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻\n\n## 附加内容\n\n在制作过程中 请您小心使用刀具。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "糖拌西红柿的做法",
+          "ingredients": [
+            "西红柿 2 个（每个约100g，共200g）",
+            "白砂糖 20g"
+          ],
+          "steps": [
+            "用刀将西红柿皮米字型划开",
+            "用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边",
+            "把西红柿的衣服脱光",
+            "再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用",
+            "全部切好后，将西红柿在盘子中均匀码一层",
+            "撒上白糖，重复上面一步直到全部西红柿放完",
+            "放入冰箱冷藏 10 分钟",
+            "一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻"
+          ],
+          "notes": [
+            "在制作过程中 请您小心使用刀具。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "0a17cd82ca74f182fdd543842535beac063179b47bfdf55135f76b8a1101f822",
+          "ingredients_text": "## 必备原料和工具\n\n- 西红柿\n- 白砂糖\n- 冰箱\n\n## 计算\n\n一份正好够 2 人吃。\n\n每份：\n\n- 西红柿 2 个（每个西红柿约 100g，共 200g）\n- 白砂糖 20g",
+          "steps_text": "## 操作\n\n1. 用刀将西红柿皮米字型划开\n2. 用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边\n3. 把西红柿的衣服脱光\n4. 再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用\n5. 全部切好后，将西红柿在盘子中均匀码一层\n6. 撒上白糖，重复上面一步直到全部西红柿放完\n7. 放入冰箱冷藏 10 分钟\n8. 一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文有明火旋转烤皮或开水冲皮两种路线；本批未做安全审定，保留原文待确认。",
+          "冰箱是工具，已从食材清单移除；原文营养/功效与热量估计未作为产品结论。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 37,
+            "body": "在制作过程中 请您小心使用刀具。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n在制作过程中 请您小心使用刀具。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文有明火旋转烤皮或开水冲皮两种路线；本批未做安全审定，保留原文待确认。；冰箱是工具，已从食材清单移除；原文营养/功效与热量估计未作为产品结论。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "清蒸南瓜",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E6%B8%85%E8%92%B8%E5%8D%97%E7%93%9C.md",
+      "status": "draft",
+      "ingredients": [
+        "南瓜 300g",
+        "饮用水 1000ml（蒸锅用水）"
+      ],
+      "steps": [
+        "将 南瓜 外皮洗净，去除瓜瓤和籽。",
+        "将 南瓜 切成厚度大约 2 cm 的片，备用。",
+        "在 蒸锅 的锅中加入 1000 ml 饮用水。",
+        "将切好的 南瓜 片均匀摆放在盘中。",
+        "待蒸锅中的水烧开后，将装有 南瓜 的盘子放入蒸锅中。",
+        "盖上锅盖，保持大火蒸 15-20 分钟，直至南瓜变软，可以用筷子轻松穿透。",
+        "关火，小心取出盘子。"
+      ],
+      "notes": [
+        "- 南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。\n- 南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。\n- 蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。"
+      ],
+      "servings_text": "每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。\n每份：",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/清蒸南瓜.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [],
+        "source_servings_text": "每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。\n每份：",
+        "content_sha256": "00708225f67ba4aa10a61b7ea3885487f63bc0b9d4e6d01afa57325bb05d495f",
+        "reviewed_source_sha256": "00708225f67ba4aa10a61b7ea3885487f63bc0b9d4e6d01afa57325bb05d495f",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 清蒸南瓜的做法\n\n一道原汁原味的家常蒸菜，最大程度保留南瓜的天然甜味与营养，口感软糯香甜，既可当甜点也可作主食。南瓜富含β-胡萝卜素和膳食纤维，有益视力与肠胃健康。制作极其简单，新手也能轻松搞定，从切配到出锅仅需 15-20 分钟。\n\n预估烹饪难度：★\n\n预估卡路里：80 大卡\n\n## 必备原料和工具\n\n- 南瓜\n- 蒸锅\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。\n\n每份：\n\n- 南瓜 300 g\n- 饮用水 1000 ml （用于蒸锅）\n\n## 操作\n\n1. 将 南瓜 外皮洗净，去除瓜瓤和籽。\n2. 将 南瓜 切成厚度大约 2 cm 的片，备用。\n3. 在 蒸锅 的锅中加入 1000 ml 饮用水。\n4. 将切好的 南瓜 片均匀摆放在盘中。\n5. 待蒸锅中的水烧开后，将装有 南瓜 的盘子放入蒸锅中。\n6. 盖上锅盖，保持大火蒸 **15-20 分钟**，直至南瓜变软，可以用筷子轻松穿透。\n7. 关火，小心取出盘子。\n\n## 附加内容\n\n- 南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。\n- 南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。\n- 蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "清蒸南瓜的做法",
+          "ingredients": [
+            "南瓜 300g",
+            "饮用水 1000ml（蒸锅用水）"
+          ],
+          "steps": [
+            "将 南瓜 外皮洗净，去除瓜瓤和籽。",
+            "将 南瓜 切成厚度大约 2 cm 的片，备用。",
+            "在 蒸锅 的锅中加入 1000 ml 饮用水。",
+            "将切好的 南瓜 片均匀摆放在盘中。",
+            "待蒸锅中的水烧开后，将装有 南瓜 的盘子放入蒸锅中。",
+            "盖上锅盖，保持大火蒸 15-20 分钟，直至南瓜变软，可以用筷子轻松穿透。",
+            "关火，小心取出盘子。"
+          ],
+          "notes": [
+            "- 南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。\n- 南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。\n- 蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "00708225f67ba4aa10a61b7ea3885487f63bc0b9d4e6d01afa57325bb05d495f",
+          "ingredients_text": "## 必备原料和工具\n\n- 南瓜\n- 蒸锅\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。\n\n每份：\n\n- 南瓜 300 g\n- 饮用水 1000 ml （用于蒸锅）",
+          "steps_text": "## 操作\n\n1. 将 南瓜 外皮洗净，去除瓜瓤和籽。\n2. 将 南瓜 切成厚度大约 2 cm 的片，备用。\n3. 在 蒸锅 的锅中加入 1000 ml 饮用水。\n4. 将切好的 南瓜 片均匀摆放在盘中。\n5. 待蒸锅中的水烧开后，将装有 南瓜 的盘子放入蒸锅中。\n6. 盖上锅盖，保持大火蒸 **15-20 分钟**，直至南瓜变软，可以用筷子轻松穿透。\n7. 关火，小心取出盘子。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文每份够1–2人，未擅自换算为固定1人份。蒸锅是工具。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 33,
+            "body": "- 南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。\n- 南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。\n- 蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。\n- 南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。\n- 蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文每份够1–2人，未擅自换算为固定1人份。蒸锅是工具。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "松仁玉米",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E6%9D%BE%E4%BB%81%E7%8E%89%E7%B1%B3.md",
+      "status": "draft",
+      "ingredients": [
+        "玉米粒 200g（自备煮熟或罐头甜玉米）",
+        "熟松子仁 30g",
+        "胡萝卜 50g（可选）",
+        "食用油 15ml",
+        "白砂糖 10g",
+        "盐 1g",
+        "淀粉 5g",
+        "水 20ml"
+      ],
+      "steps": [
+        "玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用",
+        "热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒",
+        "加入白砂糖和盐，炒匀",
+        "混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠",
+        "加入熟松仁翻炒均匀",
+        "出锅装盘"
+      ],
+      "notes": [
+        "松仁可以提前用小火干炒至微微金黄香脆，更加美味\n 使用罐头玉米时应先沥干水分，避免炒制过程中出水过多\n 炒制时火候不宜过大，以防糊锅或松仁焦糊"
+      ],
+      "servings_text": "每份：",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/松仁玉米.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending",
+          "serving_count_unspecified"
+        ],
+        "source_servings_text": "每份：",
+        "content_sha256": "b99130478840b83495f3e20014a3feabbcf13844eaf4d2df16e774f809b9fa6c",
+        "reviewed_source_sha256": "b99130478840b83495f3e20014a3feabbcf13844eaf4d2df16e774f809b9fa6c",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "玉米粒",
+              "自备煮熟",
+              "罐头甜玉米",
+              "熟松子仁",
+              "食用油"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "玉米粒",
+              "自备煮熟",
+              "罐头甜玉米",
+              "熟松子仁",
+              "食用油"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "玉米粒",
+              "自备煮熟",
+              "罐头甜玉米",
+              "熟松子仁",
+              "食用油"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 松仁玉米的做法\n\n松仁玉米是一道口感清甜脆嫩的家常快手菜，松仁香酥、玉米甜润，属于广受欢迎的北方家常风味。玉米和松仁搭配，能提供丰富的膳食纤维、不饱和脂肪酸和多种维生素，营养均衡。做法简单，新手也能轻松驾驭，从备料到出锅一般只需大约十五 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：580 大卡\n\n## 必备原料和工具\n\n* 玉米粒（建议使用甜玉米）\n* 熟松子仁\n* 胡萝卜（可选，增加色彩）\n* 食用油\n* 白砂糖\n* 盐\n* 淀粉\n* 水\n\n## 计算\n\n每份：\n\n* 玉米粒 200 g（可用罐头甜玉米，也可自备煮熟）\n* 熟松子仁 30 g\n* 胡萝卜 50 g（切小丁，可省略）\n* 食用油 15 ml\n* 白砂糖 10 g\n* 盐 1 g\n* 淀粉 5 g\n* 水 20 ml（用于调淀粉水）\n\n## 操作\n\n1. 玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用\n2. 热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒\n3. 加入白砂糖和盐，炒匀\n4. 混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠\n5. 加入熟松仁翻炒均匀\n6. 出锅装盘\n\n## 附加内容\n\n* 松仁可以提前用小火干炒至微微金黄香脆，更加美味\n* 使用罐头玉米时应先沥干水分，避免炒制过程中出水过多\n* 炒制时火候不宜过大，以防糊锅或松仁焦糊\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "松仁玉米的做法",
+          "ingredients": [
+            "玉米粒 200g（自备煮熟或罐头甜玉米）",
+            "熟松子仁 30g",
+            "胡萝卜 50g（可选）",
+            "食用油 15ml",
+            "白砂糖 10g",
+            "盐 1g",
+            "淀粉 5g",
+            "水 20ml"
+          ],
+          "steps": [
+            "玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用",
+            "热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒",
+            "加入白砂糖和盐，炒匀",
+            "混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠",
+            "加入熟松仁翻炒均匀",
+            "出锅装盘"
+          ],
+          "notes": [
+            "松仁可以提前用小火干炒至微微金黄香脆，更加美味\n 使用罐头玉米时应先沥干水分，避免炒制过程中出水过多\n 炒制时火候不宜过大，以防糊锅或松仁焦糊"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "b99130478840b83495f3e20014a3feabbcf13844eaf4d2df16e774f809b9fa6c",
+          "ingredients_text": "## 必备原料和工具\n\n* 玉米粒（建议使用甜玉米）\n* 熟松子仁\n* 胡萝卜（可选，增加色彩）\n* 食用油\n* 白砂糖\n* 盐\n* 淀粉\n* 水\n\n## 计算\n\n每份：\n\n* 玉米粒 200 g（可用罐头甜玉米，也可自备煮熟）\n* 熟松子仁 30 g\n* 胡萝卜 50 g（切小丁，可省略）\n* 食用油 15 ml\n* 白砂糖 10 g\n* 盐 1 g\n* 淀粉 5 g\n* 水 20 ml（用于调淀粉水）",
+          "steps_text": "## 操作\n\n1. 玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用\n2. 热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒\n3. 加入白砂糖和盐，炒匀\n4. 混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠\n5. 加入熟松仁翻炒均匀\n6. 出锅装盘",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文“每份”未给人数；未编造份数。罐头玉米与食用油需核对实际配料，不按名字放行。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 42,
+            "body": "* 松仁可以提前用小火干炒至微微金黄香脆，更加美味\n* 使用罐头玉米时应先沥干水分，避免炒制过程中出水过多\n* 炒制时火候不宜过大，以防糊锅或松仁焦糊\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n* 松仁可以提前用小火干炒至微微金黄香脆，更加美味\n* 使用罐头玉米时应先沥干水分，避免炒制过程中出水过多\n* 炒制时火候不宜过大，以防糊锅或松仁焦糊\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文“每份”未给人数；未编造份数。罐头玉米与食用油需核对实际配料，不按名字放行。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "清炒花菜",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E6%B8%85%E7%82%92%E8%8A%B1%E8%8F%9C.md",
+      "status": "draft",
+      "ingredients": [
+        "花菜 300g",
+        "大蒜 2-3 瓣",
+        "盐 3g",
+        "食用油 15ml",
+        "饮用水 50ml（炒制）",
+        "饮用水 1000ml（焯水）"
+      ],
+      "steps": [
+        "将 花菜 洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。",
+        "将 大蒜 去皮，切成蒜片，备用。",
+        "锅中加入 1000 ml 饮用水，大火烧开。",
+        "放入 花菜 朵，煮 2-3 分钟，至花菜颜色变浅，口感稍微软化。",
+        "将 煮好的 花菜 捞出，沥干水分，备用。",
+        "热锅，加入 15 ml 食用油，大火烧热。",
+        "放入 蒜片，快速煸炒出香味。",
+        "放入 焯好水的 花菜 朵，转中大火，快速翻炒约 2 分钟，使花菜均匀受热。",
+        "加入 3 g 盐，继续翻炒均匀。",
+        "沿锅边淋入 50 ml 饮用水，盖上锅盖，焖 1 分钟，帮助花菜完全熟透入味。",
+        "开盖，快速翻炒均匀，即可出锅。"
+      ],
+      "notes": [
+        "- 提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。\n- 炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。"
+      ],
+      "servings_text": "每次制作前需要确定计划做几份。一份正好够 2 个人食用（作为配菜）。\n每份：",
+      "servings": 2,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/清炒花菜.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending"
+        ],
+        "source_servings_text": "每次制作前需要确定计划做几份。一份正好够 2 个人食用（作为配菜）。\n每份：",
+        "content_sha256": "6aaba881967c8fda670a70bcf54bf2047d60c597eb671b27670385f8d4b03a8a",
+        "reviewed_source_sha256": "6aaba881967c8fda670a70bcf54bf2047d60c597eb671b27670385f8d4b03a8a",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "大蒜"
+            ],
+            "unknown": [
+              "食用油",
+              "炒制",
+              "焯水"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油",
+              "炒制",
+              "焯水"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油",
+              "炒制",
+              "焯水"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 清炒花菜的做法\n\n一道常见的家常素菜，口感脆嫩爽口。富含维生素 C 和膳食纤维。做法简单快捷，一般初学者仅需 15 分钟即可完成。\n\n预估烹饪难度：★★\n\n预估卡路里：211 大卡\n\n## 必备原料和工具\n\n- 花菜\n- 大蒜\n- 盐\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 2 个人食用（作为配菜）。\n\n每份：\n\n- 花菜 约 300 g （约 1/2 中等大小的花菜）\n- 大蒜 2-3 瓣\n- 盐 3 g\n- 食用油 15 ml\n- 饮用水 50 ml （用于炒制过程）\n\n## 操作\n\n1. 将 花菜 洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。\n2. 将 大蒜 去皮，切成蒜片，备用。\n3. 锅中加入 1000 ml 饮用水，大火烧开。\n4. 放入 花菜 朵，煮 **2-3 分钟**，至花菜颜色变浅，口感稍微软化。\n5. 将 煮好的 花菜 捞出，沥干水分，备用。\n6. 热锅，加入 15 ml 食用油，大火烧热。\n7. 放入 蒜片，快速煸炒出香味。\n8. 放入 焯好水的 花菜 朵，转中大火，快速翻炒约 **2 分钟**，使花菜均匀受热。\n9. 加入 3 g 盐，继续翻炒均匀。\n10. 沿锅边淋入 50 ml 饮用水，盖上锅盖，焖 **1 分钟**，帮助花菜完全熟透入味。\n11. 开盖，快速翻炒均匀，即可出锅。\n\n## 附加内容\n\n- 提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。\n- 炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "清炒花菜的做法",
+          "ingredients": [
+            "花菜 300g",
+            "大蒜 2-3 瓣",
+            "盐 3g",
+            "食用油 15ml",
+            "饮用水 50ml（炒制）",
+            "饮用水 1000ml（焯水）"
+          ],
+          "steps": [
+            "将 花菜 洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。",
+            "将 大蒜 去皮，切成蒜片，备用。",
+            "锅中加入 1000 ml 饮用水，大火烧开。",
+            "放入 花菜 朵，煮 2-3 分钟，至花菜颜色变浅，口感稍微软化。",
+            "将 煮好的 花菜 捞出，沥干水分，备用。",
+            "热锅，加入 15 ml 食用油，大火烧热。",
+            "放入 蒜片，快速煸炒出香味。",
+            "放入 焯好水的 花菜 朵，转中大火，快速翻炒约 2 分钟，使花菜均匀受热。",
+            "加入 3 g 盐，继续翻炒均匀。",
+            "沿锅边淋入 50 ml 饮用水，盖上锅盖，焖 1 分钟，帮助花菜完全熟透入味。",
+            "开盖，快速翻炒均匀，即可出锅。"
+          ],
+          "notes": [
+            "- 提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。\n- 炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "6aaba881967c8fda670a70bcf54bf2047d60c597eb671b27670385f8d4b03a8a",
+          "ingredients_text": "## 必备原料和工具\n\n- 花菜\n- 大蒜\n- 盐\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 2 个人食用（作为配菜）。\n\n每份：\n\n- 花菜 约 300 g （约 1/2 中等大小的花菜）\n- 大蒜 2-3 瓣\n- 盐 3 g\n- 食用油 15 ml\n- 饮用水 50 ml （用于炒制过程）",
+          "steps_text": "## 操作\n\n1. 将 花菜 洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。\n2. 将 大蒜 去皮，切成蒜片，备用。\n3. 锅中加入 1000 ml 饮用水，大火烧开。\n4. 放入 花菜 朵，煮 **2-3 分钟**，至花菜颜色变浅，口感稍微软化。\n5. 将 煮好的 花菜 捞出，沥干水分，备用。\n6. 热锅，加入 15 ml 食用油，大火烧热。\n7. 放入 蒜片，快速煸炒出香味。\n8. 放入 焯好水的 花菜 朵，转中大火，快速翻炒约 **2 分钟**，使花菜均匀受热。\n9. 加入 3 g 盐，继续翻炒均匀。\n10. 沿锅边淋入 50 ml 饮用水，盖上锅盖，焖 **1 分钟**，帮助花菜完全熟透入味。\n11. 开盖，快速翻炒均匀，即可出锅。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文明确2人配菜。操作第3步另用1000ml焯水，已补入食材；蒜为五辛。食用油来源未明确，仍待核。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 41,
+            "body": "- 提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。\n- 炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。\n- 炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文明确2人配菜。操作第3步另用1000ml焯水，已补入食材；蒜为五辛。食用油来源未明确，仍待核。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "炒青菜",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E7%82%92%E9%9D%92%E8%8F%9C.md",
+      "status": "draft",
+      "ingredients": [
+        "青菜 100g",
+        "蒜瓣 2 粒",
+        "食用油 10-15ml",
+        "食盐 2g",
+        "饮用水 70ml",
+        "白糖 5g"
+      ],
+      "steps": [
+        "青菜掰成小瓣，用清水洗净，备用。",
+        "将蒜瓣剁碎，备用",
+        "中火或大火热锅后，锅内放入 10-15ml 食用油。再等待 30 秒让油温升高。",
+        "将准备好的青菜倒入锅中，翻炒至青菜变软（约 1 分钟）。",
+        "放入剁碎的蒜瓣",
+        "倒入计算好的清水，水位应当完全浸润或即将没过青菜，加入食盐 （2g  份数），继续翻炒约 1 分钟。",
+        "最后加入白糖小火加热 2 分钟，加热时盖上锅盖。",
+        "盛盘。"
+      ],
+      "notes": [
+        "加入白糖，会让青菜颜色更绿。"
+      ],
+      "servings_text": "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+      "servings": 1,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/炒青菜.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending"
+        ],
+        "source_servings_text": "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+        "content_sha256": "3196880e12a33d0c331c4a0634d2a83b48c59331750c034eaead2dac1bf5c2e8",
+        "reviewed_source_sha256": "3196880e12a33d0c331c4a0634d2a83b48c59331750c034eaead2dac1bf5c2e8",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "蒜瓣"
+            ],
+            "unknown": [
+              "食用油"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 炒青菜的做法\n\n这是一道清爽可口的家常素菜，口感脆嫩、咸鲜回甘。青菜富含维生素与膳食纤维，有助于促进消化。做法非常简单，零基础也能轻松驾驭，从备菜到出锅大约只需 10 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：152 大卡\n\n## 必备原料和工具\n\n- 青菜\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1 个人食用\n\n总量：\n\n- 青菜 100g * 份数\n- 蒜瓣 2 粒 * 份数\n- 食用油 10-15ml（覆盖锅底即可）\n- 食盐 2g * 份数\n- 饮用水 70ml * 份数\n- 白糖 5g * 份数\n\n## 操作\n\n1. 青菜掰成小瓣，用清水洗净，备用。\n2. 将蒜瓣剁碎，备用\n3. 中火或大火热锅后，锅内放入 10-15ml 食用油。再等待 30 秒让油温升高。\n4. 将准备好的青菜倒入锅中，翻炒至青菜变软（约 1 分钟）。\n5. 放入剁碎的蒜瓣\n6. 倒入计算好的清水，水位应当完全浸润或即将没过青菜，加入食盐 （2g * 份数），继续翻炒约 1 分钟。\n7. 最后加入白糖小火加热 2 分钟，加热时盖上锅盖。\n8. 盛盘。\n\n## 附加内容\n\n加入白糖，会让青菜颜色更绿。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "炒青菜的做法",
+          "ingredients": [
+            "青菜 100g",
+            "蒜瓣 2 粒",
+            "食用油 10-15ml",
+            "食盐 2g",
+            "饮用水 70ml",
+            "白糖 5g"
+          ],
+          "steps": [
+            "青菜掰成小瓣，用清水洗净，备用。",
+            "将蒜瓣剁碎，备用",
+            "中火或大火热锅后，锅内放入 10-15ml 食用油。再等待 30 秒让油温升高。",
+            "将准备好的青菜倒入锅中，翻炒至青菜变软（约 1 分钟）。",
+            "放入剁碎的蒜瓣",
+            "倒入计算好的清水，水位应当完全浸润或即将没过青菜，加入食盐 （2g  份数），继续翻炒约 1 分钟。",
+            "最后加入白糖小火加热 2 分钟，加热时盖上锅盖。",
+            "盛盘。"
+          ],
+          "notes": [
+            "加入白糖，会让青菜颜色更绿。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "3196880e12a33d0c331c4a0634d2a83b48c59331750c034eaead2dac1bf5c2e8",
+          "ingredients_text": "## 必备原料和工具\n\n- 青菜\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1 个人食用\n\n总量：\n\n- 青菜 100g * 份数\n- 蒜瓣 2 粒 * 份数\n- 食用油 10-15ml（覆盖锅底即可）\n- 食盐 2g * 份数\n- 饮用水 70ml * 份数\n- 白糖 5g * 份数",
+          "steps_text": "## 操作\n\n1. 青菜掰成小瓣，用清水洗净，备用。\n2. 将蒜瓣剁碎，备用\n3. 中火或大火热锅后，锅内放入 10-15ml 食用油。再等待 30 秒让油温升高。\n4. 将准备好的青菜倒入锅中，翻炒至青菜变软（约 1 分钟）。\n5. 放入剁碎的蒜瓣\n6. 倒入计算好的清水，水位应当完全浸润或即将没过青菜，加入食盐 （2g * 份数），继续翻炒约 1 分钟。\n7. 最后加入白糖小火加热 2 分钟，加热时盖上锅盖。\n8. 盛盘。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "蒜在计算和操作中出现，已完整补入；食用油仍待核。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 37,
+            "body": "加入白糖，会让青菜颜色更绿。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n加入白糖，会让青菜颜色更绿。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。蒜在计算和操作中出现，已完整补入；食用油仍待核。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "凉拌莴笋",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E8%8E%B4%E7%AC%8B/%E5%87%89%E6%8B%8C%E8%8E%B4%E7%AC%8B.md",
+      "status": "draft",
+      "ingredients": [
+        "莴笋 1 根",
+        "萝卜 0.25 根（可选）",
+        "小米辣 2 个",
+        "姜 1 片",
+        "蒜头 2 粒",
+        "盐 5g",
+        "食用油 25ml",
+        "生抽（可选，用量原文未给）",
+        "白砂糖（可选，用量原文未给）",
+        "香醋（可选，用量原文未给）",
+        "芝麻（可选，用量原文未给）",
+        "水（清洗和焯水用，原文未给用量）"
+      ],
+      "steps": [
+        "莴笋削皮，切小条。萝卜切条，一起放入大碗，加入盐搅拌，放置 10 分钟",
+        "放置后的莴笋用水清洗 1-2 遍",
+        "起锅烧水，放入莴笋，水煮 1 分钟 捞出，沥干水分，放入大碗",
+        "起锅烧油，放入姜片、蒜粒、小米椒煸炒 30-45 S ，倒入莴笋中",
+        "搅拌充分，端盘"
+      ],
+      "notes": [
+        "萝卜非必须，只是为了增加菜色\n 端盘后，可以根据个人口味，额外增加生抽、白砂糖、香醋、芝麻等佐料\n 莴笋条的大小看个人口感决定，但莴笋皮要尽量多削点，不然真的影响口感\n 冰镇效果更加"
+      ],
+      "servings_text": "每份：",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "optional_quantities_unspecified",
+          "compound_labels_pending",
+          "serving_count_unspecified"
+        ],
+        "source_servings_text": "每份：",
+        "content_sha256": "3ac67ce68b0837211daf0d62671806453aa5670e254ed53c19ac22d8f531acb7",
+        "reviewed_source_sha256": "3ac67ce68b0837211daf0d62671806453aa5670e254ed53c19ac22d8f531acb7",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "蒜头"
+            ],
+            "unknown": [
+              "莴笋",
+              "萝卜",
+              "食用油",
+              "生抽",
+              "用量原文未给",
+              "清洗",
+              "焯水用",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "莴笋",
+              "萝卜",
+              "食用油",
+              "生抽",
+              "用量原文未给",
+              "清洗",
+              "焯水用",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "莴笋",
+              "萝卜",
+              "食用油",
+              "生抽",
+              "用量原文未给",
+              "清洗",
+              "焯水用",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 凉拌莴笋的做法\n\n一道清脆爽口的家常凉拌小菜，莴笋经过腌制后格外脆嫩，带着微微辣意，十分开胃。富含维生素与膳食纤维，热量不高。做法简单，对新手很友好，从备料到上桌大约二十分钟，冰镇后风味更佳。\n\n预估烹饪难度：★★\n\n预估卡路里：295 大卡\n\n## 必备原料和工具\n\n* 莴笋\n* 萝卜\n* 小米辣\n* 姜\n* 蒜头\n* 盐\n* 食用油\n\n## 计算\n\n每份：\n\n* 莴笋 1 根\n* 萝卜 0.25 根\n* 小米辣 2 个\n* 姜 1 片\n* 蒜头 2 粒\n* 盐 5 g\n* 食用油 25 ml\n\n## 操作\n\n1. 莴笋削皮，切小条。萝卜切条，一起放入大碗，加入盐搅拌，放置 10 分钟\n2. 放置后的莴笋用水清洗 1-2 遍\n3. 起锅烧水，放入莴笋，水煮 1 分钟 捞出，沥干水分，放入大碗\n4. 起锅烧油，放入姜片、蒜粒、小米椒煸炒 30-45 S ，倒入莴笋中\n5. 搅拌充分，端盘\n\n![凉拌莴笋-预览图-1](./1.jpeg)\n\n## 附加内容\n\n* 萝卜非必须，只是为了增加菜色\n* 端盘后，可以根据个人口味，额外增加生抽、白砂糖、香醋、芝麻等佐料\n* 莴笋条的大小看个人口感决定，但莴笋皮要尽量多削点，不然真的影响口感\n* 冰镇效果更加\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "凉拌莴笋的做法",
+          "ingredients": [
+            "莴笋 1 根",
+            "萝卜 0.25 根（可选）",
+            "小米辣 2 个",
+            "姜 1 片",
+            "蒜头 2 粒",
+            "盐 5g",
+            "食用油 25ml",
+            "生抽（可选，用量原文未给）",
+            "白砂糖（可选，用量原文未给）",
+            "香醋（可选，用量原文未给）",
+            "芝麻（可选，用量原文未给）",
+            "水（清洗和焯水用，原文未给用量）"
+          ],
+          "steps": [
+            "莴笋削皮，切小条。萝卜切条，一起放入大碗，加入盐搅拌，放置 10 分钟",
+            "放置后的莴笋用水清洗 1-2 遍",
+            "起锅烧水，放入莴笋，水煮 1 分钟 捞出，沥干水分，放入大碗",
+            "起锅烧油，放入姜片、蒜粒、小米椒煸炒 30-45 S ，倒入莴笋中",
+            "搅拌充分，端盘"
+          ],
+          "notes": [
+            "萝卜非必须，只是为了增加菜色\n 端盘后，可以根据个人口味，额外增加生抽、白砂糖、香醋、芝麻等佐料\n 莴笋条的大小看个人口感决定，但莴笋皮要尽量多削点，不然真的影响口感\n 冰镇效果更加"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "3ac67ce68b0837211daf0d62671806453aa5670e254ed53c19ac22d8f531acb7",
+          "ingredients_text": "## 必备原料和工具\n\n* 莴笋\n* 萝卜\n* 小米辣\n* 姜\n* 蒜头\n* 盐\n* 食用油\n\n## 计算\n\n每份：\n\n* 莴笋 1 根\n* 萝卜 0.25 根\n* 小米辣 2 个\n* 姜 1 片\n* 蒜头 2 粒\n* 盐 5 g\n* 食用油 25 ml",
+          "steps_text": "## 操作\n\n1. 莴笋削皮，切小条。萝卜切条，一起放入大碗，加入盐搅拌，放置 10 分钟\n2. 放置后的莴笋用水清洗 1-2 遍\n3. 起锅烧水，放入莴笋，水煮 1 分钟 捞出，沥干水分，放入大碗\n4. 起锅烧油，放入姜片、蒜粒、小米椒煸炒 30-45 S ，倒入莴笋中\n5. 搅拌充分，端盘\n\n![凉拌莴笋-预览图-1](./1.jpeg)",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "附加内容的生抽/白糖/香醋/芝麻完整保留为可选项，没有为增加适配数量偷偷删掉。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 41,
+            "body": "* 萝卜非必须，只是为了增加菜色\n* 端盘后，可以根据个人口味，额外增加生抽、白砂糖、香醋、芝麻等佐料\n* 莴笋条的大小看个人口感决定，但莴笋皮要尽量多削点，不然真的影响口感\n* 冰镇效果更加\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n* 萝卜非必须，只是为了增加菜色\n* 端盘后，可以根据个人口味，额外增加生抽、白砂糖、香醋、芝麻等佐料\n* 莴笋条的大小看个人口感决定，但莴笋皮要尽量多削点，不然真的影响口感\n* 冰镇效果更加\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。附加内容的生抽/白糖/香醋/芝麻完整保留为可选项，没有为增加适配数量偷偷删掉。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "凉拌豆腐",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E8%B1%86%E8%85%90.md",
+      "status": "draft",
+      "ingredients": [
+        "豆腐 250g",
+        "小葱 10g",
+        "大蒜 2-3 瓣",
+        "生抽 15ml",
+        "香油 5ml",
+        "醋 5ml（可选）",
+        "白糖 2g（可选）",
+        "辣椒油 5ml（可选）",
+        "饮用水 500ml（焯水用）"
+      ],
+      "steps": [
+        "将 豆腐 切成 2 cm 见方的小块，备用。",
+        "锅中加入 500 ml 饮用水，大火烧开。",
+        "放入 豆腐 块，煮 1-2 分钟，以去除豆腥味并使豆腐口感更紧实。",
+        "将 煮好的 豆腐 块捞出，沥干水分，放入碗中，备用。",
+        "将 小葱 洗净，切成葱花，备用。",
+        "将 大蒜 去皮，切成蒜末，备用。",
+        "在一个干净的小碗中，加入 15 ml 生抽，5 ml 香油，5 ml 醋（可选），2 g 白糖（可选）。",
+        "加入切好的 大蒜末。",
+        "搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。",
+        "将制作好的酱汁均匀淋在 豆腐 块上。",
+        "撒上切好的 小葱花。",
+        "根据个人喜好，淋上 5 ml 辣椒油（可选）。",
+        "用 筷子 或勺子轻轻拌匀，即可食用。"
+      ],
+      "notes": [
+        "- 制作凉拌豆腐时，建议选用质地较硬的北豆腐或老豆腐，不易碎裂，口感更佳。\n- 如果喜欢更清淡的口感，可以省略醋和辣椒油。\n- 酱汁的比例可以根据个人口味进行调整。"
+      ],
+      "servings_text": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n每份：",
+      "servings": 1,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/凉拌豆腐.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending"
+        ],
+        "source_servings_text": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n每份：",
+        "content_sha256": "82f49ea08a9ea1c7fe51f8175af142ebc3aae480b745244b15302252ecf1688c",
+        "reviewed_source_sha256": "82f49ea08a9ea1c7fe51f8175af142ebc3aae480b745244b15302252ecf1688c",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "小葱",
+              "大蒜"
+            ],
+            "unknown": [
+              "生抽",
+              "焯水用"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "生抽",
+              "焯水用"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "生抽",
+              "焯水用"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 凉拌豆腐的做法\n\n这道凉菜清爽可口，富含植物蛋白和钙质，低脂健康，制作简单快捷，一般初学者只需要 10 分钟即可完成。\n\n预估烹饪难度：★★\n\n预估卡路里：343 大卡\n\n## 必备原料和工具\n\n- 豆腐 （推荐选用北豆腐或老豆腐）\n- 小葱\n- 大蒜\n- 生抽\n- 香油\n- 醋（可选）\n- 白糖（可选）\n- 辣椒油（可选）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n\n每份：\n\n- 豆腐 250 g （约 1 块常见大小的豆腐）\n- 小葱 10 g\n- 大蒜 2-3 瓣\n- 生抽 15 ml\n- 香油 5 ml\n- 醋 5 ml（可选）\n- 白糖 2 g（可选）\n- 辣椒油 5 ml（可选）\n\n## 操作\n\n1. 将 豆腐 切成 2 cm 见方的小块，备用。\n2. 锅中加入 500 ml 饮用水，大火烧开。\n3. 放入 豆腐 块，煮 **1-2 分钟**，以去除豆腥味并使豆腐口感更紧实。\n4. 将 煮好的 豆腐 块捞出，沥干水分，放入碗中，备用。\n5. 将 小葱 洗净，切成葱花，备用。\n6. 将 大蒜 去皮，切成蒜末，备用。\n7. 在一个干净的小碗中，加入 15 ml 生抽，5 ml 香油，5 ml 醋（可选），2 g 白糖（可选）。\n8. 加入切好的 大蒜末。\n9. 搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。\n10. 将制作好的酱汁均匀淋在 豆腐 块上。\n11. 撒上切好的 小葱花。\n12. 根据个人喜好，淋上 5 ml 辣椒油（可选）。\n13. 用 筷子 或勺子轻轻拌匀，即可食用。\n\n## 附加内容\n\n- 制作凉拌豆腐时，建议选用质地较硬的北豆腐或老豆腐，不易碎裂，口感更佳。\n- 如果喜欢更清淡的口感，可以省略醋和辣椒油。\n- 酱汁的比例可以根据个人口味进行调整。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "凉拌豆腐的做法",
+          "ingredients": [
+            "豆腐 250g",
+            "小葱 10g",
+            "大蒜 2-3 瓣",
+            "生抽 15ml",
+            "香油 5ml",
+            "醋 5ml（可选）",
+            "白糖 2g（可选）",
+            "辣椒油 5ml（可选）",
+            "饮用水 500ml（焯水用）"
+          ],
+          "steps": [
+            "将 豆腐 切成 2 cm 见方的小块，备用。",
+            "锅中加入 500 ml 饮用水，大火烧开。",
+            "放入 豆腐 块，煮 1-2 分钟，以去除豆腥味并使豆腐口感更紧实。",
+            "将 煮好的 豆腐 块捞出，沥干水分，放入碗中，备用。",
+            "将 小葱 洗净，切成葱花，备用。",
+            "将 大蒜 去皮，切成蒜末，备用。",
+            "在一个干净的小碗中，加入 15 ml 生抽，5 ml 香油，5 ml 醋（可选），2 g 白糖（可选）。",
+            "加入切好的 大蒜末。",
+            "搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。",
+            "将制作好的酱汁均匀淋在 豆腐 块上。",
+            "撒上切好的 小葱花。",
+            "根据个人喜好，淋上 5 ml 辣椒油（可选）。",
+            "用 筷子 或勺子轻轻拌匀，即可食用。"
+          ],
+          "notes": [
+            "- 制作凉拌豆腐时，建议选用质地较硬的北豆腐或老豆腐，不易碎裂，口感更佳。\n- 如果喜欢更清淡的口感，可以省略醋和辣椒油。\n- 酱汁的比例可以根据个人口味进行调整。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "82f49ea08a9ea1c7fe51f8175af142ebc3aae480b745244b15302252ecf1688c",
+          "ingredients_text": "## 必备原料和工具\n\n- 豆腐 （推荐选用北豆腐或老豆腐）\n- 小葱\n- 大蒜\n- 生抽\n- 香油\n- 醋（可选）\n- 白糖（可选）\n- 辣椒油（可选）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n\n每份：\n\n- 豆腐 250 g （约 1 块常见大小的豆腐）\n- 小葱 10 g\n- 大蒜 2-3 瓣\n- 生抽 15 ml\n- 香油 5 ml\n- 醋 5 ml（可选）\n- 白糖 2 g（可选）\n- 辣椒油 5 ml（可选）",
+          "steps_text": "## 操作\n\n1. 将 豆腐 切成 2 cm 见方的小块，备用。\n2. 锅中加入 500 ml 饮用水，大火烧开。\n3. 放入 豆腐 块，煮 **1-2 分钟**，以去除豆腥味并使豆腐口感更紧实。\n4. 将 煮好的 豆腐 块捞出，沥干水分，放入碗中，备用。\n5. 将 小葱 洗净，切成葱花，备用。\n6. 将 大蒜 去皮，切成蒜末，备用。\n7. 在一个干净的小碗中，加入 15 ml 生抽，5 ml 香油，5 ml 醋（可选），2 g 白糖（可选）。\n8. 加入切好的 大蒜末。\n9. 搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。\n10. 将制作好的酱汁均匀淋在 豆腐 块上。\n11. 撒上切好的 小葱花。\n12. 根据个人喜好，淋上 5 ml 辣椒油（可选）。\n13. 用 筷子 或勺子轻轻拌匀，即可食用。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "操作第2步的500ml焯水补入；生抽等复合调味按实际标签待核，小葱和大蒜不适配纯净素。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 51,
+            "body": "- 制作凉拌豆腐时，建议选用质地较硬的北豆腐或老豆腐，不易碎裂，口感更佳。\n- 如果喜欢更清淡的口感，可以省略醋和辣椒油。\n- 酱汁的比例可以根据个人口味进行调整。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 制作凉拌豆腐时，建议选用质地较硬的北豆腐或老豆腐，不易碎裂，口感更佳。\n- 如果喜欢更清淡的口感，可以省略醋和辣椒油。\n- 酱汁的比例可以根据个人口味进行调整。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。操作第2步的500ml焯水补入；生抽等复合调味按实际标签待核，小葱和大蒜不适配纯净素。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "凉拌金针菇",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E9%87%91%E9%92%88%E8%8F%87.md",
+      "status": "draft",
+      "ingredients": [
+        "金针菇 150g",
+        "小葱 5g",
+        "大蒜 2 瓣",
+        "生抽 15ml",
+        "醋 10ml",
+        "白糖 3g（可选）",
+        "香油 5ml（可选）",
+        "辣椒油 5ml（可选）",
+        "饮用水 1000ml（焯水用）"
+      ],
+      "steps": [
+        "将 金针菇 根部切除，用清水冲洗干净，备用。",
+        "将 小葱 洗净，切成葱花，备用。",
+        "将 大蒜 去皮，切成蒜末，备用。",
+        "锅中加入 1000 ml 饮用水，大火烧开。",
+        "放入 金针菇，煮 1-2 分钟，至金针菇变软。",
+        "将 煮好的 金针菇 捞出，沥干水分，放入一个较大的碗中，备用。",
+        "在另一个干净的小碗中，加入 15 ml 生抽，10 ml 醋，3 g 白糖（可选），5 ml 香油（可选）。",
+        "加入切好的 大蒜末。",
+        "搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。",
+        "将制作好的酱汁均匀淋在 金针菇 上。",
+        "撒上切好的 小葱花。",
+        "根据个人喜好，淋上 5 ml 辣椒油（可选）。",
+        "用 筷子 轻轻拌匀，即可食用。"
+      ],
+      "notes": [
+        "- 金针菇焯水时间不宜过长，以免影响口感。\n- 酱汁的比例可以根据个人口味喜好进行调整。\n- 如果不喜欢吃辣，可以省略辣椒油。"
+      ],
+      "servings_text": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n每份：",
+      "servings": 1,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/凉拌金针菇.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending",
+          "cooking_conditions_not_professionally_reviewed"
+        ],
+        "source_servings_text": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n每份：",
+        "content_sha256": "3ffc9ae8bf9ffe5bb388fa98dd763a8a250f96042d04e05a5d4c2c1f6a04211f",
+        "reviewed_source_sha256": "3ffc9ae8bf9ffe5bb388fa98dd763a8a250f96042d04e05a5d4c2c1f6a04211f",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "小葱",
+              "大蒜"
+            ],
+            "unknown": [
+              "生抽",
+              "焯水用"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "生抽",
+              "焯水用"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "生抽",
+              "焯水用"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 凉拌金针菇的做法\n\n凉拌金针菇是一道简单快捷的家常开胃凉菜，口感脆嫩爽滑，咸鲜微酸。金针菇富含膳食纤维和多种维生素，热量较低。制作全程只需焯烫和调味，对新手非常友好，忙碌时也能快速准备。从备菜到完成大约只需 10 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：163 大卡\n\n## 必备原料和工具\n\n- 金针菇\n- 小葱\n- 大蒜\n- 生抽\n- 醋\n- 白糖（可选）\n- 香油（可选）\n- 辣椒油（可选）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n\n每份：\n\n- 金针菇 150 g （约 1 小包）\n- 小葱 5 g\n- 大蒜 2 瓣\n- 生抽 15 ml\n- 醋 10 ml\n- 白糖 3 g（可选）\n- 香油 5 ml（可选）\n- 辣椒油 5 ml（可选）\n\n## 操作\n\n1. 将 金针菇 根部切除，用清水冲洗干净，备用。\n2. 将 小葱 洗净，切成葱花，备用。\n3. 将 大蒜 去皮，切成蒜末，备用。\n4. 锅中加入 1000 ml 饮用水，大火烧开。\n5. 放入 金针菇，煮 **1-2 分钟**，至金针菇变软。\n6. 将 煮好的 金针菇 捞出，沥干水分，放入一个较大的碗中，备用。\n7. 在另一个干净的小碗中，加入 15 ml 生抽，10 ml 醋，3 g 白糖（可选），5 ml 香油（可选）。\n8. 加入切好的 大蒜末。\n9. 搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。\n10. 将制作好的酱汁均匀淋在 金针菇 上。\n11. 撒上切好的 小葱花。\n12. 根据个人喜好，淋上 5 ml 辣椒油（可选）。\n13. 用 筷子 轻轻拌匀，即可食用。\n\n## 附加内容\n\n- 金针菇焯水时间不宜过长，以免影响口感。\n- 酱汁的比例可以根据个人口味喜好进行调整。\n- 如果不喜欢吃辣，可以省略辣椒油。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "凉拌金针菇的做法",
+          "ingredients": [
+            "金针菇 150g",
+            "小葱 5g",
+            "大蒜 2 瓣",
+            "生抽 15ml",
+            "醋 10ml",
+            "白糖 3g（可选）",
+            "香油 5ml（可选）",
+            "辣椒油 5ml（可选）",
+            "饮用水 1000ml（焯水用）"
+          ],
+          "steps": [
+            "将 金针菇 根部切除，用清水冲洗干净，备用。",
+            "将 小葱 洗净，切成葱花，备用。",
+            "将 大蒜 去皮，切成蒜末，备用。",
+            "锅中加入 1000 ml 饮用水，大火烧开。",
+            "放入 金针菇，煮 1-2 分钟，至金针菇变软。",
+            "将 煮好的 金针菇 捞出，沥干水分，放入一个较大的碗中，备用。",
+            "在另一个干净的小碗中，加入 15 ml 生抽，10 ml 醋，3 g 白糖（可选），5 ml 香油（可选）。",
+            "加入切好的 大蒜末。",
+            "搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。",
+            "将制作好的酱汁均匀淋在 金针菇 上。",
+            "撒上切好的 小葱花。",
+            "根据个人喜好，淋上 5 ml 辣椒油（可选）。",
+            "用 筷子 轻轻拌匀，即可食用。"
+          ],
+          "notes": [
+            "- 金针菇焯水时间不宜过长，以免影响口感。\n- 酱汁的比例可以根据个人口味喜好进行调整。\n- 如果不喜欢吃辣，可以省略辣椒油。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "3ffc9ae8bf9ffe5bb388fa98dd763a8a250f96042d04e05a5d4c2c1f6a04211f",
+          "ingredients_text": "## 必备原料和工具\n\n- 金针菇\n- 小葱\n- 大蒜\n- 生抽\n- 醋\n- 白糖（可选）\n- 香油（可选）\n- 辣椒油（可选）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1 个人吃。\n\n每份：\n\n- 金针菇 150 g （约 1 小包）\n- 小葱 5 g\n- 大蒜 2 瓣\n- 生抽 15 ml\n- 醋 10 ml\n- 白糖 3 g（可选）\n- 香油 5 ml（可选）\n- 辣椒油 5 ml（可选）",
+          "steps_text": "## 操作\n\n1. 将 金针菇 根部切除，用清水冲洗干净，备用。\n2. 将 小葱 洗净，切成葱花，备用。\n3. 将 大蒜 去皮，切成蒜末，备用。\n4. 锅中加入 1000 ml 饮用水，大火烧开。\n5. 放入 金针菇，煮 **1-2 分钟**，至金针菇变软。\n6. 将 煮好的 金针菇 捞出，沥干水分，放入一个较大的碗中，备用。\n7. 在另一个干净的小碗中，加入 15 ml 生抽，10 ml 醋，3 g 白糖（可选），5 ml 香油（可选）。\n8. 加入切好的 大蒜末。\n9. 搅拌均匀，使 白糖 充分溶解，酱汁混合均匀。\n10. 将制作好的酱汁均匀淋在 金针菇 上。\n11. 撒上切好的 小葱花。\n12. 根据个人喜好，淋上 5 ml 辣椒油（可选）。\n13. 用 筷子 轻轻拌匀，即可食用。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "操作中1000ml用水补入；原文焯煮条件仅作为来源记录，本批未做食品安全专业审核。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 51,
+            "body": "- 金针菇焯水时间不宜过长，以免影响口感。\n- 酱汁的比例可以根据个人口味喜好进行调整。\n- 如果不喜欢吃辣，可以省略辣椒油。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 金针菇焯水时间不宜过长，以免影响口感。\n- 酱汁的比例可以根据个人口味喜好进行调整。\n- 如果不喜欢吃辣，可以省略辣椒油。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。操作中1000ml用水补入；原文焯煮条件仅作为来源记录，本批未做食品安全专业审核。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "虎皮青椒",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E8%99%8E%E7%9A%AE%E9%9D%92%E6%A4%92/%E8%99%8E%E7%9A%AE%E9%9D%92%E6%A4%92.md",
+      "status": "draft",
+      "ingredients": [
+        "青椒 5 个（每个长10-15cm）",
+        "大蒜 2-3 瓣",
+        "油 20ml",
+        "白糖 15g",
+        "生抽 15ml",
+        "香醋 15ml",
+        "盐 4g"
+      ],
+      "steps": [
+        "去掉青椒蒂，用自来水冲洗干净。",
+        "青椒切长片，平均一个青椒纵向切成 3-4 片即可。",
+        "大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。",
+        "调料 1：拿一个小碗倒入 20ml 油，将大蒜末放入其中。",
+        "调料 2：白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌。",
+        "将 调料 1 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。",
+        "用锅铲不停的按压青椒，合适的时候翻面。",
+        "翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入 调料 2。",
+        "加大火候继续翻炒 30s 后即可出锅盛入盘中。"
+      ],
+      "notes": [],
+      "servings_text": "每份：",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending",
+          "serving_count_unspecified"
+        ],
+        "source_servings_text": "每份：",
+        "content_sha256": "b49f516f967eb74688024ba32c332ee3893ad85ab0706de61ed87d6cd33e71da",
+        "reviewed_source_sha256": "b49f516f967eb74688024ba32c332ee3893ad85ab0706de61ed87d6cd33e71da",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "大蒜"
+            ],
+            "unknown": [
+              "每个长 cm",
+              "油",
+              "生抽"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "每个长 cm",
+              "油",
+              "生抽"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "每个长 cm",
+              "油",
+              "生抽"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "\n# 虎皮青椒的做法\n\n虎皮青椒是一道家常小菜，外皮微焦起皱，口感软嫩带脆，咸鲜中透着酸甜，十分开胃下饭。青椒富含维生素 C 和膳食纤维，有助于增强免疫力、促进消化。制作过程简单明了，只需掌握按压和火候，对新手也比较友好，一般约 15 分钟就能完成。\n\n预估烹饪难度：★★★\n\n预估卡路里：341 大卡\n\n## 必备原料和工具\n\n- 青椒\n- 大蒜\n- 白糖（灵魂）\n- 醋\n- 生抽\n- 盐\n- 砵或者有一定深度的碗\n\n## 计算\n\n每份：\n\n- 青椒 5 个，长度在 10-15cm 的最为合适\n- 大蒜 2-3 瓣\n- 油 20ml\n- 白糖 15g\n- 生抽 15ml\n- 香醋 15ml\n- 盐 4g\n\n## 操作\n\n1. 去掉青椒蒂，用自来水冲洗干净。\n2. 青椒切长片，平均一个青椒纵向切成 3-4 片即可。\n3. 大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。\n4. `调料 1`：拿一个小碗倒入 20ml 油，将大蒜末放入其中。\n5. `调料 2`：白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌。\n6. 将 `调料 1` 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。\n7. 用锅铲不停的按压青椒，合适的时候翻面。\n8. 翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入 `调料 2`。\n9. 加大火候继续翻炒 30s 后即可出锅盛入盘中。\n\n## 附加内容\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n\n![虎皮青椒](./虎皮青椒.jpg)\n",
+          "title": "虎皮青椒的做法",
+          "ingredients": [
+            "青椒 5 个（每个长10-15cm）",
+            "大蒜 2-3 瓣",
+            "油 20ml",
+            "白糖 15g",
+            "生抽 15ml",
+            "香醋 15ml",
+            "盐 4g"
+          ],
+          "steps": [
+            "去掉青椒蒂，用自来水冲洗干净。",
+            "青椒切长片，平均一个青椒纵向切成 3-4 片即可。",
+            "大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。",
+            "调料 1：拿一个小碗倒入 20ml 油，将大蒜末放入其中。",
+            "调料 2：白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌。",
+            "将 调料 1 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。",
+            "用锅铲不停的按压青椒，合适的时候翻面。",
+            "翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入 调料 2。",
+            "加大火候继续翻炒 30s 后即可出锅盛入盘中。"
+          ],
+          "notes": [],
+          "language": "zh-CN",
+          "source_sha256": "b49f516f967eb74688024ba32c332ee3893ad85ab0706de61ed87d6cd33e71da",
+          "ingredients_text": "## 必备原料和工具\n\n- 青椒\n- 大蒜\n- 白糖（灵魂）\n- 醋\n- 生抽\n- 盐\n- 砵或者有一定深度的碗\n\n## 计算\n\n每份：\n\n- 青椒 5 个，长度在 10-15cm 的最为合适\n- 大蒜 2-3 瓣\n- 油 20ml\n- 白糖 15g\n- 生抽 15ml\n- 香醋 15ml\n- 盐 4g",
+          "steps_text": "## 操作\n\n1. 去掉青椒蒂，用自来水冲洗干净。\n2. 青椒切长片，平均一个青椒纵向切成 3-4 片即可。\n3. 大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。\n4. `调料 1`：拿一个小碗倒入 20ml 油，将大蒜末放入其中。\n5. `调料 2`：白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌。\n6. 将 `调料 1` 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。\n7. 用锅铲不停的按压青椒，合适的时候翻面。\n8. 翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入 `调料 2`。\n9. 加大火候继续翻炒 30s 后即可出锅盛入盘中。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "“砵/碗”是工具已移除；油的品种及生抽实际成分仍待核，不替来源指定植物油。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 44,
+            "body": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n\n![虎皮青椒](./虎皮青椒.jpg)",
+            "markdown": "## 附加内容\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n\n![虎皮青椒](./虎皮青椒.jpg)"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。“砵/碗”是工具已移除；油的品种及生抽实际成分仍待核，不替来源指定植物油。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "烤茄子",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E7%83%A4%E8%8C%84%E5%AD%90/%E7%83%A4%E8%8C%84%E5%AD%90.md",
+      "status": "draft",
+      "ingredients": [
+        "茄子 1 个（约200g）",
+        "食用油 20-30ml",
+        "酱油 4-6g",
+        "小米椒 1 个（约20g）",
+        "蒜蓉 3-4 瓣",
+        "孜然 1-3g",
+        "食用盐 0.5-2g"
+      ],
+      "steps": [
+        "将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用",
+        "茄子洗净，用纸巾擦干表面的水分",
+        "用叉子在茄子的一侧扎 4-8 下",
+        "使用 15-25ml 的食用油涂满茄子表面",
+        "将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟",
+        "将茄子放入烤箱中层或者上层，烤制 12-15 分钟 （茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可）",
+        "取出茄子，用刀茄子上竖着划一个口子。口子居中，上下距 1-1.5cm",
+        "用小刀或者叉子伸入口子，竖着切割茄子内部",
+        "将口子微微掰开，倒入第一步准备的酱料",
+        "再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟",
+        "取出，关闭烤箱电源"
+      ],
+      "notes": [
+        "最终成品和楼下烧烤摊的烤茄子差不多，太香了！\n\n注意事项：\n茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致茄子在烤制的过程中爆裂\n\n可以改进的环节：\n第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料"
+      ],
+      "servings_text": "按照两个人的份量：",
+      "servings": 2,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/烤茄子/烤茄子.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending"
+        ],
+        "source_servings_text": "按照两个人的份量：",
+        "content_sha256": "c190f31061f860d07c6eaadf649fc3ff28599eef19a36ad4434753cf96791396",
+        "reviewed_source_sha256": "c190f31061f860d07c6eaadf649fc3ff28599eef19a36ad4434753cf96791396",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "蒜蓉"
+            ],
+            "unknown": [
+              "食用油",
+              "酱油",
+              "小米椒"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油",
+              "酱油",
+              "小米椒"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油",
+              "酱油",
+              "小米椒"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 烤茄子的做法\n\n烤茄子香气浓郁、外焦里嫩，孜然和蒜蓉的辛香完美融入软糯的茄肉，是街头烧烤风味在家轻松复刻的菜品。茄子富含维生素 P 和花青素，有助于保护心血管、抗氧化。做法需要用到烤箱，但步骤清晰，新手也能在大约半 小时完成，很适合作为家庭聚餐的快手下饭菜。\n\n预估烹饪难度：★★★\n\n预估卡路里：145 大卡\n\n## 必备原料和工具\n\n- 茄子\n- 食用油\n- 酱油（生抽）\n- 蒜蓉\n- 辣椒\n- 孜然\n- 食用盐\n\n## 计算\n\n按照两个人的份量：\n\n- 茄子 1 个 （大约 200g）\n- 食用油 20-30 毫升\n- 酱油 4-6 克\n- 小米椒 1 个 （大约 20g）\n- 蒜蓉 3-4 瓣\n- 孜然 1-3 克\n- 食用盐 0.5-2 克\n\n## 操作\n\n1. 将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用\n2. 茄子洗净，用纸巾擦干表面的水分\n3. 用叉子在茄子的一侧扎 4-8 下\n4. 使用 15-25ml 的食用油涂满茄子表面\n5. 将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟\n6. 将茄子放入烤箱中层或者上层，烤制 12-15 分钟 （茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可）\n7. 取出茄子，用刀茄子上竖着划一个口子。口子居中，上下距 1-1.5cm\n8. 用小刀或者叉子伸入口子，竖着切割茄子内部\n9. 将口子微微掰开，倒入第一步准备的酱料\n10. 再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟\n11. 取出，关闭烤箱电源\n\n## 附加内容\n\n最终成品和楼下烧烤摊的烤茄子差不多，太香了！\n\n**注意事项：**\n茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致**茄子在烤制的过程中爆裂**\n\n**可以改进的环节：**\n第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料\n\n![烤茄子-预览图-1](./烤茄子.jpg)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "烤茄子的做法",
+          "ingredients": [
+            "茄子 1 个（约200g）",
+            "食用油 20-30ml",
+            "酱油 4-6g",
+            "小米椒 1 个（约20g）",
+            "蒜蓉 3-4 瓣",
+            "孜然 1-3g",
+            "食用盐 0.5-2g"
+          ],
+          "steps": [
+            "将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用",
+            "茄子洗净，用纸巾擦干表面的水分",
+            "用叉子在茄子的一侧扎 4-8 下",
+            "使用 15-25ml 的食用油涂满茄子表面",
+            "将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟",
+            "将茄子放入烤箱中层或者上层，烤制 12-15 分钟 （茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可）",
+            "取出茄子，用刀茄子上竖着划一个口子。口子居中，上下距 1-1.5cm",
+            "用小刀或者叉子伸入口子，竖着切割茄子内部",
+            "将口子微微掰开，倒入第一步准备的酱料",
+            "再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟",
+            "取出，关闭烤箱电源"
+          ],
+          "notes": [
+            "最终成品和楼下烧烤摊的烤茄子差不多，太香了！\n\n注意事项：\n茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致茄子在烤制的过程中爆裂\n\n可以改进的环节：\n第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "c190f31061f860d07c6eaadf649fc3ff28599eef19a36ad4434753cf96791396",
+          "ingredients_text": "## 必备原料和工具\n\n- 茄子\n- 食用油\n- 酱油（生抽）\n- 蒜蓉\n- 辣椒\n- 孜然\n- 食用盐\n\n## 计算\n\n按照两个人的份量：\n\n- 茄子 1 个 （大约 200g）\n- 食用油 20-30 毫升\n- 酱油 4-6 克\n- 小米椒 1 个 （大约 20g）\n- 蒜蓉 3-4 瓣\n- 孜然 1-3 克\n- 食用盐 0.5-2 克",
+          "steps_text": "## 操作\n\n1. 将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用\n2. 茄子洗净，用纸巾擦干表面的水分\n3. 用叉子在茄子的一侧扎 4-8 下\n4. 使用 15-25ml 的食用油涂满茄子表面\n5. 将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟\n6. 将茄子放入烤箱中层或者上层，烤制 12-15 分钟 （茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可）\n7. 取出茄子，用刀茄子上竖着划一个口子。口子居中，上下距 1-1.5cm\n8. 用小刀或者叉子伸入口子，竖着切割茄子内部\n9. 将口子微微掰开，倒入第一步准备的酱料\n10. 再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟\n11. 取出，关闭烤箱电源",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文200℃两段烤制、表面擦干/涂油/扎孔及爆裂注意事项完整保留，未删成一步简写。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 45,
+            "body": "最终成品和楼下烧烤摊的烤茄子差不多，太香了！\n\n**注意事项：**\n茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致**茄子在烤制的过程中爆裂**\n\n**可以改进的环节：**\n第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料\n\n![烤茄子-预览图-1](./烤茄子.jpg)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n最终成品和楼下烧烤摊的烤茄子差不多，太香了！\n\n**注意事项：**\n茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致**茄子在烤制的过程中爆裂**\n\n**可以改进的环节：**\n第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料\n\n![烤茄子-预览图-1](./烤茄子.jpg)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文200℃两段烤制、表面擦干/涂油/扎孔及爆裂注意事项完整保留，未删成一步简写。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "酸辣土豆丝",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E9%85%B8%E8%BE%A3%E5%9C%9F%E8%B1%86%E4%B8%9D.md",
+      "status": "draft",
+      "ingredients": [
+        "土豆 240g",
+        "大蒜 4 瓣",
+        "青椒 0.5 个",
+        "红椒 0.5 个",
+        "干辣椒 3 个",
+        "葱 1 根",
+        "生抽 5ml",
+        "陈醋 10ml",
+        "盐 2g",
+        "食用油 10-15ml",
+        "水（清洗和焯水用，原文未给用量）"
+      ],
+      "steps": [
+        "土豆去皮、切丝（或用刨丝器）。",
+        "切好的土豆丝用清水清洗，去除多余的淀粉，然后对土豆丝焯水 10 秒。沥干，备用。",
+        "葱切成葱花；大蒜拍碎切成蒜末（分为两等份备用）；干辣椒切小段；青红椒切丝。",
+        "热锅，小火热油，下入一半的葱花（葱白部分）、一半的蒜末和干辣椒爆香。",
+        "加入青红椒翻炒几下，加入土豆丝翻炒至变色。",
+        "加 5ml 生抽，10ml 陈醋，倒入剩下的一半蒜末和 2g 盐快速翻炒均匀。",
+        "出锅前撒上剩余的葱花，翻匀即可装盘。"
+      ],
+      "notes": [
+        "- 清洗土豆丝淀粉一定要去干净，不然会全黏在一起\n- 加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。"
+      ],
+      "servings_text": "每份：",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/酸辣土豆丝.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending",
+          "serving_count_unspecified"
+        ],
+        "source_servings_text": "每份：",
+        "content_sha256": "c6bf903ae1c79e1089f32bffb79a14dd4d2bea58d1a2f90330f164b0b4f3f3cb",
+        "reviewed_source_sha256": "c6bf903ae1c79e1089f32bffb79a14dd4d2bea58d1a2f90330f164b0b4f3f3cb",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "大蒜",
+              "葱"
+            ],
+            "unknown": [
+              "红椒",
+              "生抽",
+              "陈醋",
+              "食用油",
+              "清洗",
+              "焯水用",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "红椒",
+              "生抽",
+              "陈醋",
+              "食用油",
+              "清洗",
+              "焯水用",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "红椒",
+              "生抽",
+              "陈醋",
+              "食用油",
+              "清洗",
+              "焯水用",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 酸辣土豆丝的做法\n\n酸辣开胃的经典家常菜，口感脆爽，色泽鲜亮，属于大众喜爱的快手小炒。土豆提供碳水化合物和钾元素，辣椒富含维生素 C，有助于增进食欲。操作步骤简单明了，对新手十分友好，从备料到出锅大约只需 20 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：374 大卡\n\n## 必备原料和工具\n\n- 土豆\n- 大蒜\n- 青椒\n- 红椒\n- 干辣椒\n- 葱\n- 生抽\n- 陈醋\n- 盐\n\n## 计算\n\n每份：\n\n- 土豆 240g（越细越长更好）\n- 大蒜 4 瓣\n- 青椒 0.5 个\n- 红椒 0.5 个\n- 干辣椒 3 个\n- 葱 1 根\n- 生抽 5ml\n- 陈醋 10ml\n- 盐 2g\n- 食用油 10-15ml\n\n## 操作\n\n1. 土豆去皮、切丝（或用刨丝器）。\n2. 切好的土豆丝用清水清洗，去除多余的淀粉，然后对土豆丝焯水 10 秒。沥干，备用。\n3. 葱切成葱花；大蒜拍碎切成蒜末（分为两等份备用）；干辣椒切小段；青红椒切丝。\n4. 热锅，小火热油，下入一半的葱花（葱白部分）、一半的蒜末和干辣椒爆香。\n5. 加入青红椒翻炒几下，加入土豆丝翻炒至变色。\n6. 加 5ml 生抽，10ml 陈醋，倒入剩下的一半蒜末和 2g 盐快速翻炒均匀。\n7. 出锅前撒上剩余的葱花，翻匀即可装盘。\n\n## 附加内容\n\n- 清洗土豆丝淀粉一定要去干净，不然会全黏在一起\n- 加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "酸辣土豆丝的做法",
+          "ingredients": [
+            "土豆 240g",
+            "大蒜 4 瓣",
+            "青椒 0.5 个",
+            "红椒 0.5 个",
+            "干辣椒 3 个",
+            "葱 1 根",
+            "生抽 5ml",
+            "陈醋 10ml",
+            "盐 2g",
+            "食用油 10-15ml",
+            "水（清洗和焯水用，原文未给用量）"
+          ],
+          "steps": [
+            "土豆去皮、切丝（或用刨丝器）。",
+            "切好的土豆丝用清水清洗，去除多余的淀粉，然后对土豆丝焯水 10 秒。沥干，备用。",
+            "葱切成葱花；大蒜拍碎切成蒜末（分为两等份备用）；干辣椒切小段；青红椒切丝。",
+            "热锅，小火热油，下入一半的葱花（葱白部分）、一半的蒜末和干辣椒爆香。",
+            "加入青红椒翻炒几下，加入土豆丝翻炒至变色。",
+            "加 5ml 生抽，10ml 陈醋，倒入剩下的一半蒜末和 2g 盐快速翻炒均匀。",
+            "出锅前撒上剩余的葱花，翻匀即可装盘。"
+          ],
+          "notes": [
+            "- 清洗土豆丝淀粉一定要去干净，不然会全黏在一起\n- 加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "c6bf903ae1c79e1089f32bffb79a14dd4d2bea58d1a2f90330f164b0b4f3f3cb",
+          "ingredients_text": "## 必备原料和工具\n\n- 土豆\n- 大蒜\n- 青椒\n- 红椒\n- 干辣椒\n- 葱\n- 生抽\n- 陈醋\n- 盐\n\n## 计算\n\n每份：\n\n- 土豆 240g（越细越长更好）\n- 大蒜 4 瓣\n- 青椒 0.5 个\n- 红椒 0.5 个\n- 干辣椒 3 个\n- 葱 1 根\n- 生抽 5ml\n- 陈醋 10ml\n- 盐 2g\n- 食用油 10-15ml",
+          "steps_text": "## 操作\n\n1. 土豆去皮、切丝（或用刨丝器）。\n2. 切好的土豆丝用清水清洗，去除多余的淀粉，然后对土豆丝焯水 10 秒。沥干，备用。\n3. 葱切成葱花；大蒜拍碎切成蒜末（分为两等份备用）；干辣椒切小段；青红椒切丝。\n4. 热锅，小火热油，下入一半的葱花（葱白部分）、一半的蒜末和干辣椒爆香。\n5. 加入青红椒翻炒几下，加入土豆丝翻炒至变色。\n6. 加 5ml 生抽，10ml 陈醋，倒入剩下的一半蒜末和 2g 盐快速翻炒均匀。\n7. 出锅前撒上剩余的葱花，翻匀即可装盘。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文每份未给人数；葱蒜不适配纯净素，调味品待核。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 46,
+            "body": "- 清洗土豆丝淀粉一定要去干净，不然会全黏在一起\n- 加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 清洗土豆丝淀粉一定要去干净，不然会全黏在一起\n- 加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文每份未给人数；葱蒜不适配纯净素，调味品待核。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "印度土豆花菜",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/vegetable_dish/%E5%8D%B0%E5%BA%A6%E5%9C%9F%E8%B1%86%E8%8A%B1%E8%8F%9C.md",
+      "status": "draft",
+      "ingredients": [
+        "土豆 2 个（约250g）",
+        "花菜 1 个（约300g）",
+        "洋葱 1 个（约100g）",
+        "番茄 1 个（约100g）",
+        "生姜 8g",
+        "大蒜 3 瓣（约9g）",
+        "青辣椒 1 根",
+        "食用油 30ml",
+        "孜然籽 3g",
+        "姜黄粉 3g",
+        "红辣椒粉 3g",
+        "香菜粉 5g",
+        "印度综合香料粉 3g",
+        "盐 5g",
+        "香菜叶 15g",
+        "水 15-30ml（太干时可选）"
+      ],
+      "steps": [
+        "将土豆去皮切成约 2cm 的块状",
+        "将花菜掰成均匀的小朵，大朵可用刀切小",
+        "在炒锅中倒入 30ml 食用油，中火加热",
+        "油热后放入孜然籽 3g，炸至孜然籽变深色且散发香味（约 10 秒，注意不要炸糊）",
+        "放入切碎的洋葱，翻炒至洋葱变透明微黄（约 3-4 分钟）",
+        "加入生姜、大蒜和青辣椒，翻炒 1 分钟",
+        "加入切碎的番茄，翻炒至番茄软烂（约 2-3 分钟）",
+        "加入姜黄粉 3g、红辣椒粉 3g、香菜粉 5g、盐 5g",
+        "翻炒 1 分钟，使香料与蔬菜融合",
+        "放入土豆块，翻炒 2 分钟使土豆表面裹上香料",
+        "放入花菜朵，轻轻翻拌均匀",
+        "盖上锅盖，转中小火，焖 12-15 分钟，期间每 3-4 分钟打开翻炒一次防止粘锅",
+        "当土豆用筷子可轻松戳透、花菜略有焦边时，撒入印度综合香料粉 3g",
+        "翻炒 1 分钟",
+        "关火，撒上香菜叶，盛盘"
+      ],
+      "notes": [
+        "- 这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多。\n- 土豆块不要切太小，否则容易炒散。\n- 花菜的边缘略微焦黄是正常的，反而会增添风味。\n- Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知。\n- 这道菜可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。"
+      ],
+      "servings_text": "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。\n每份：",
+      "servings": null,
+      "meal": null,
+      "cuisine": "western",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/vegetable_dish/印度土豆花菜.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending"
+        ],
+        "source_servings_text": "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。\n每份：",
+        "content_sha256": "7109d333174227b1b06b1fc70acc2c838bd00422c219e26c733ec5b4ca8c8f7f",
+        "reviewed_source_sha256": "7109d333174227b1b06b1fc70acc2c838bd00422c219e26c733ec5b4ca8c8f7f",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "not_suitable",
+            "denied": [
+              "洋葱",
+              "大蒜"
+            ],
+            "unknown": [
+              "食用油",
+              "孜然籽",
+              "香菜粉",
+              "印度综合香料粉",
+              "香菜叶",
+              "太干时"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油",
+              "孜然籽",
+              "香菜粉",
+              "印度综合香料粉",
+              "香菜叶",
+              "太干时"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "食用油",
+              "孜然籽",
+              "香菜粉",
+              "印度综合香料粉",
+              "香菜叶",
+              "太干时"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 印度土豆花菜的做法\n\n这道印度家常素菜以干香金黄、香料浓郁为特点，土豆绵软、花菜略带焦边，属于北印度风味。土豆和花菜富含膳食纤维与维生素 C，营养均衡。做法简单，对新手友好，从准备到出锅约需 25 分钟。\n\n预估烹饪难度：★★★\n\n预估卡路里：668 大卡\n\n## 必备原料和工具\n\n- 土豆\n- 花菜（菜花）\n- 洋葱\n- 番茄\n- 生姜\n- 大蒜\n- 青辣椒\n- 香菜\n- 食用油\n- 孜然籽\n- 姜黄粉\n- 红辣椒粉\n- 香菜粉\n- 印度综合香料粉(Garam Masala)\n- 盐\n- 炒锅（带盖）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。\n\n每份：\n\n- 土豆 2 个（约 250g），去皮切块（约 2cm 大小）\n- 花菜 1 个（约 300g），掰成小朵\n- 洋葱 1 个（约 100g），切碎\n- 番茄 1 个（约 100g），切碎\n- 生姜 8g，磨碎\n- 大蒜 3 瓣（约 9g），切碎\n- 青辣椒 1 根，切碎\n- 食用油 30ml\n- 孜然籽 3g\n- 姜黄粉 3g\n- 红辣椒粉 3g\n- 香菜粉 5g\n- 印度综合香料粉 3g\n- 盐 5g\n- 香菜叶 15g（装饰用）\n\n## 操作\n\n1. 将土豆去皮切成约 2cm 的块状\n2. 将花菜掰成均匀的小朵，大朵可用刀切小\n3. 在炒锅中倒入 30ml 食用油，中火加热\n4. 油热后放入孜然籽 3g，炸至*孜然籽变深色且散发香味*（约 10 秒，注意不要炸糊）\n5. 放入切碎的洋葱，翻炒至*洋葱变透明微黄*（约 3-4 分钟）\n6. 加入生姜、大蒜和青辣椒，翻炒 1 分钟\n7. 加入切碎的番茄，翻炒至*番茄软烂*（约 2-3 分钟）\n8. 加入姜黄粉 3g、红辣椒粉 3g、香菜粉 5g、盐 5g\n9. 翻炒 1 分钟，使香料与蔬菜融合\n10. 放入土豆块，翻炒 2 分钟使土豆表面裹上香料\n11. 放入花菜朵，轻轻翻拌均匀\n12. 盖上锅盖，转中小火，**焖 12-15 分钟**，期间每 3-4 分钟打开翻炒一次防止粘锅\n13. 当*土豆用筷子可轻松戳透、花菜略有焦边*时，撒入印度综合香料粉 3g\n14. 翻炒 1 分钟\n15. 关火，撒上香菜叶，盛盘\n\n## 附加内容\n\n- 这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多。\n- 土豆块不要切太小，否则容易炒散。\n- 花菜的边缘略微焦黄是正常的，反而会增添风味。\n- Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知。\n- 这道菜可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "印度土豆花菜的做法",
+          "ingredients": [
+            "土豆 2 个（约250g）",
+            "花菜 1 个（约300g）",
+            "洋葱 1 个（约100g）",
+            "番茄 1 个（约100g）",
+            "生姜 8g",
+            "大蒜 3 瓣（约9g）",
+            "青辣椒 1 根",
+            "食用油 30ml",
+            "孜然籽 3g",
+            "姜黄粉 3g",
+            "红辣椒粉 3g",
+            "香菜粉 5g",
+            "印度综合香料粉 3g",
+            "盐 5g",
+            "香菜叶 15g",
+            "水 15-30ml（太干时可选）"
+          ],
+          "steps": [
+            "将土豆去皮切成约 2cm 的块状",
+            "将花菜掰成均匀的小朵，大朵可用刀切小",
+            "在炒锅中倒入 30ml 食用油，中火加热",
+            "油热后放入孜然籽 3g，炸至孜然籽变深色且散发香味（约 10 秒，注意不要炸糊）",
+            "放入切碎的洋葱，翻炒至洋葱变透明微黄（约 3-4 分钟）",
+            "加入生姜、大蒜和青辣椒，翻炒 1 分钟",
+            "加入切碎的番茄，翻炒至番茄软烂（约 2-3 分钟）",
+            "加入姜黄粉 3g、红辣椒粉 3g、香菜粉 5g、盐 5g",
+            "翻炒 1 分钟，使香料与蔬菜融合",
+            "放入土豆块，翻炒 2 分钟使土豆表面裹上香料",
+            "放入花菜朵，轻轻翻拌均匀",
+            "盖上锅盖，转中小火，焖 12-15 分钟，期间每 3-4 分钟打开翻炒一次防止粘锅",
+            "当土豆用筷子可轻松戳透、花菜略有焦边时，撒入印度综合香料粉 3g",
+            "翻炒 1 分钟",
+            "关火，撒上香菜叶，盛盘"
+          ],
+          "notes": [
+            "- 这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多。\n- 土豆块不要切太小，否则容易炒散。\n- 花菜的边缘略微焦黄是正常的，反而会增添风味。\n- Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知。\n- 这道菜可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "7109d333174227b1b06b1fc70acc2c838bd00422c219e26c733ec5b4ca8c8f7f",
+          "ingredients_text": "## 必备原料和工具\n\n- 土豆\n- 花菜（菜花）\n- 洋葱\n- 番茄\n- 生姜\n- 大蒜\n- 青辣椒\n- 香菜\n- 食用油\n- 孜然籽\n- 姜黄粉\n- 红辣椒粉\n- 香菜粉\n- 印度综合香料粉(Garam Masala)\n- 盐\n- 炒锅（带盖）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。\n\n每份：\n\n- 土豆 2 个（约 250g），去皮切块（约 2cm 大小）\n- 花菜 1 个（约 300g），掰成小朵\n- 洋葱 1 个（约 100g），切碎\n- 番茄 1 个（约 100g），切碎\n- 生姜 8g，磨碎\n- 大蒜 3 瓣（约 9g），切碎\n- 青辣椒 1 根，切碎\n- 食用油 30ml\n- 孜然籽 3g\n- 姜黄粉 3g\n- 红辣椒粉 3g\n- 香菜粉 5g\n- 印度综合香料粉 3g\n- 盐 5g\n- 香菜叶 15g（装饰用）",
+          "steps_text": "## 操作\n\n1. 将土豆去皮切成约 2cm 的块状\n2. 将花菜掰成均匀的小朵，大朵可用刀切小\n3. 在炒锅中倒入 30ml 食用油，中火加热\n4. 油热后放入孜然籽 3g，炸至*孜然籽变深色且散发香味*（约 10 秒，注意不要炸糊）\n5. 放入切碎的洋葱，翻炒至*洋葱变透明微黄*（约 3-4 分钟）\n6. 加入生姜、大蒜和青辣椒，翻炒 1 分钟\n7. 加入切碎的番茄，翻炒至*番茄软烂*（约 2-3 分钟）\n8. 加入姜黄粉 3g、红辣椒粉 3g、香菜粉 5g、盐 5g\n9. 翻炒 1 分钟，使香料与蔬菜融合\n10. 放入土豆块，翻炒 2 分钟使土豆表面裹上香料\n11. 放入花菜朵，轻轻翻拌均匀\n12. 盖上锅盖，转中小火，**焖 12-15 分钟**，期间每 3-4 分钟打开翻炒一次防止粘锅\n13. 当*土豆用筷子可轻松戳透、花菜略有焦边*时，撒入印度综合香料粉 3g\n14. 翻炒 1 分钟\n15. 关火，撒上香菜叶，盛盘",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文明示北印度Aloo Gobi，归入外国菜而不是按中文语言推断中国菜。每份2–3人不固定；综合香料和食用油需核标签。附加内容配饼/饭建议不计作本菜原料。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 68,
+            "body": "- 这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多。\n- 土豆块不要切太小，否则容易炒散。\n- 花菜的边缘略微焦黄是正常的，反而会增添风味。\n- Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知。\n- 这道菜可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多。\n- 土豆块不要切太小，否则容易炒散。\n- 花菜的边缘略微焦黄是正常的，反而会增添风味。\n- Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知。\n- 这道菜可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文明示北印度Aloo Gobi，归入外国菜而不是按中文语言推断中国菜。每份2–3人不固定；综合香料和食用油需核标签。附加内容配饼/饭建议不计作本菜原料。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "桂圆红枣粥",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/breakfast/%E6%A1%82%E5%9C%86%E7%BA%A2%E6%9E%A3%E7%B2%A5.md",
+      "status": "draft",
+      "ingredients": [
+        "糯米 100g（原文可用大米）",
+        "红枣 15 颗",
+        "桂圆 15 颗",
+        "水 2000ml"
+      ],
+      "steps": [
+        "将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟",
+        "红枣用清水洗两次，放入碗中浸泡 10 分钟",
+        "糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水",
+        "将桂圆和红枣加入电饭锅",
+        "打开电饭锅煮饭模式，1 小时后粥成"
+      ],
+      "notes": [
+        "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度"
+      ],
+      "servings_text": "每份：",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/breakfast/桂圆红枣粥.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "serving_count_unspecified"
+        ],
+        "source_servings_text": "每份：",
+        "content_sha256": "0a732e4d4674dd6d60d5f6f0d9f2d548fc7cb3d6e2f619afc8966998db67909f",
+        "reviewed_source_sha256": "0a732e4d4674dd6d60d5f6f0d9f2d548fc7cb3d6e2f619afc8966998db67909f",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "原文可用大米",
+              "桂圆"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "原文可用大米",
+              "桂圆"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "原文可用大米",
+              "桂圆"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 桂圆红枣粥的做法\n\n一道甜香软糯的中式传统粥品。以糯米、红枣和桂圆同煮，自带甘甜，暖身暖胃。有补血安神、健脑益智、补养心脾的食养效果。做法非常友好，新手也能轻松掌握，从准备到粥香满屋大约需要 70 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：617 大卡\n\n## 必备原料和工具\n\n- 糯米（或大米）\n- 红枣\n- 桂圆\n\n## 计算\n\n每份：\n\n- 糯米 100g\n- 红枣 15 颗\n- 桂圆 15 颗\n\n## 操作\n\n1. 将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟\n2. 红枣用清水洗两次，放入碗中浸泡 10 分钟\n3. 糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水\n4. 将桂圆和红枣加入电饭锅\n5. 打开电饭锅煮饭模式，1 小时后粥成\n\n## 附加内容\n\n对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "桂圆红枣粥的做法",
+          "ingredients": [
+            "糯米 100g（原文可用大米）",
+            "红枣 15 颗",
+            "桂圆 15 颗",
+            "水 2000ml"
+          ],
+          "steps": [
+            "将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟",
+            "红枣用清水洗两次，放入碗中浸泡 10 分钟",
+            "糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水",
+            "将桂圆和红枣加入电饭锅",
+            "打开电饭锅煮饭模式，1 小时后粥成"
+          ],
+          "notes": [
+            "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "0a732e4d4674dd6d60d5f6f0d9f2d548fc7cb3d6e2f619afc8966998db67909f",
+          "ingredients_text": "## 必备原料和工具\n\n- 糯米（或大米）\n- 红枣\n- 桂圆\n\n## 计算\n\n每份：\n\n- 糯米 100g\n- 红枣 15 颗\n- 桂圆 15 颗",
+          "steps_text": "## 操作\n\n1. 将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟\n2. 红枣用清水洗两次，放入碗中浸泡 10 分钟\n3. 糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水\n4. 将桂圆和红枣加入电饭锅\n5. 打开电饭锅煮饭模式，1 小时后粥成",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "操作第3步2000ml清水补入；原文“每份”未给人数；原文补血安神等功效未作为本产品结论。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 31,
+            "body": "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。操作第3步2000ml清水补入；原文“每份”未给人数；原文补血安神等功效未作为本产品结论。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "水煮玉米",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/breakfast/%E6%B0%B4%E7%85%AE%E7%8E%89%E7%B1%B3.md",
+      "status": "draft",
+      "ingredients": [
+        "新鲜带皮玉米 1 个",
+        "水（淹过玉米约半指节）",
+        "盐 约2g/50ml水（按来源文字，需复核）",
+        "糖（可选，用量原文未给）"
+      ],
+      "steps": [
+        "将新鲜玉米剥去外皮，剩部分玉米皮入锅",
+        "加入淹过玉米约半节指头的水，加盐和糖",
+        "水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事。",
+        "煮熟后沥干水分，冷却后食用。"
+      ],
+      "notes": [],
+      "servings_text": "来源未说明固定人数",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/breakfast/水煮玉米.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "source_salt_ratio_ambiguous",
+          "optional_quantities_unspecified"
+        ],
+        "source_servings_text": null,
+        "content_sha256": "675bfc65305cc8da1f9d3ef50c95343d0afc97d293087ad60c2ad13e8e7d2b82",
+        "reviewed_source_sha256": "675bfc65305cc8da1f9d3ef50c95343d0afc97d293087ad60c2ad13e8e7d2b82",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "新鲜带皮玉米",
+              "淹过玉米约半指节",
+              "盐  / 水",
+              "按来源文字",
+              "需复核",
+              "用量原文未给"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "新鲜带皮玉米",
+              "淹过玉米约半指节",
+              "盐  / 水",
+              "按来源文字",
+              "需复核",
+              "用量原文未给"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "新鲜带皮玉米",
+              "淹过玉米约半指节",
+              "盐  / 水",
+              "按来源文字",
+              "需复核",
+              "用量原文未给"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 水煮玉米的做法\n\n水煮玉米是一道家常快手菜，口感清甜软糯。新鲜玉米带皮煮制，保留原香，加入盐和糖更能提味。它富含膳食纤维、维生素与碳水化合物，能为身体提供饱足感。做法极其简单，新手也能轻松上手，从准备到上桌只需大约 15 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：108 大卡\n\n## 必备原料和工具\n\n- 新鲜玉米\n- 放得下玉米的锅\n- 水\n- 盐\n- 糖（可选）\n\n## 计算\n\n- 一个带皮玉米\n- 淹过玉米约半节指头的水\n- 煮玉米的时候，开始和淡盐水，差不多 2 克盐加 50ml 的水\n- 根据口味选择加或者不加糖（可选）\n\n## 操作\n\n1. 将新鲜玉米剥去外皮，剩部分玉米皮入锅\n2. 加入淹过玉米约半节指头的水，加盐和糖\n3. 水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事。\n4. 煮熟后沥干水分，冷却后食用。\n\n## 附加内容\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "水煮玉米的做法",
+          "ingredients": [
+            "新鲜带皮玉米 1 个",
+            "水（淹过玉米约半指节）",
+            "盐 约2g/50ml水（按来源文字，需复核）",
+            "糖（可选，用量原文未给）"
+          ],
+          "steps": [
+            "将新鲜玉米剥去外皮，剩部分玉米皮入锅",
+            "加入淹过玉米约半节指头的水，加盐和糖",
+            "水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事。",
+            "煮熟后沥干水分，冷却后食用。"
+          ],
+          "notes": [],
+          "language": "zh-CN",
+          "source_sha256": "675bfc65305cc8da1f9d3ef50c95343d0afc97d293087ad60c2ad13e8e7d2b82",
+          "ingredients_text": "## 必备原料和工具\n\n- 新鲜玉米\n- 放得下玉米的锅\n- 水\n- 盐\n- 糖（可选）\n\n## 计算\n\n- 一个带皮玉米\n- 淹过玉米约半节指头的水\n- 煮玉米的时候，开始和淡盐水，差不多 2 克盐加 50ml 的水\n- 根据口味选择加或者不加糖（可选）",
+          "steps_text": "## 操作\n\n1. 将新鲜玉米剥去外皮，剩部分玉米皮入锅\n2. 加入淹过玉米约半节指头的水，加盐和糖\n3. 水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事。\n4. 煮熟后沥干水分，冷却后食用。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。",
+            "未识别到明确份数或每份基准原文，份数留空。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文盐水表达存在歧义，不自行纠正为猜测比例，保留待复核；15–20分钟是来源做法，不是通用安全保证。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 31,
+            "body": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文盐水表达存在歧义，不自行纠正为猜测比例，保留待复核；15–20分钟是来源做法，不是通用安全保证。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "电饭煲蒸米饭",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/staple/%E7%B1%B3%E9%A5%AD/%E7%94%B5%E9%A5%AD%E7%85%B2%E8%92%B8%E7%B1%B3%E9%A5%AD.md",
+      "status": "draft",
+      "ingredients": [
+        "江南米或北方大米 100-200ml/人",
+        "水（江南米约高出米面2.6cm；北方米约2cm，按来源指尖法）"
+      ],
+      "steps": [
+        "清洗米",
+        "将米和水一起加入电饭煲中。",
+        "连接电饭煲电源，进入加热模式。等待大约 30 分钟。",
+        "待电饭煲自动进入保温模式后。",
+        "将米在电饭煲中闷 10-15 分钟。",
+        "盛出米。"
+      ],
+      "notes": [
+        "- 技术总结\n  - 不论什么容器，水的量都是可以使用“指尖量水法”煮出好米饭。\n  - 水的多少是能够严重影响一碗好米饭的口感。\n  - 南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆。\n  - 米饭不同品种的米，不同的水量会极度影响口感。\n- 更多信息请参考使用的电饭煲的说明书。"
+      ],
+      "servings_text": "来源未说明固定人数",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/staple/米饭/电饭煲蒸米饭.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "water_measure_depends_on_equipment"
+        ],
+        "source_servings_text": null,
+        "content_sha256": "f65532dde2c9b84f1ba5d5c9e66ad1f2f9be06ed48797c13b64ad4e1f4b5b6ad",
+        "reviewed_source_sha256": "f65532dde2c9b84f1ba5d5c9e66ad1f2f9be06ed48797c13b64ad4e1f4b5b6ad",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "江南米",
+              "江南米约高出米面 cm",
+              "北方米约 cm",
+              "按来源指尖法"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "江南米",
+              "江南米约高出米面 cm",
+              "北方米约 cm",
+              "按来源指尖法"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "江南米",
+              "江南米约高出米面 cm",
+              "北方米约 cm",
+              "按来源指尖法"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 电饭煲蒸米饭的做法\n\n一道家喻户晓的基础主食，米香纯粹、口感软糯，因水量调节可偏硬或偏润。富含碳水化合物，能快速补充能量，适合搭配各类菜肴。操作极其简单，新手也能轻松上手，从洗米到焖好大约需要四十分钟。\n\n预估烹饪难度：★\n\n预估卡路里：442 大卡\n\n## 必备原料和工具\n\n* 电饭煲\n* 江南米或北方大米\n* 水\n\n## 计算\n\n* 一般一个人可以食用 100ml-200ml 的米。\n\n指尖量水法 （用于精准确定米水量的方法）\n\n* 江南米，米和水放在电饭煲的容器内，食指触及米时，水量能刚好没过食指的第一个指节又第二个指节 1/4 处（即大约 2.6 厘米）。\n* 北方大米，米和水放在电饭煲的容器内，食指触及米，水量能刚好没过食指的第一个指节（即大约 2 厘米处）。\n\n使用上述条件，计算出计划使用的原材料比例。\n\n## 操作\n\n1. 清洗米\n2. 将米和水一起加入电饭煲中。\n3. 连接电饭煲电源，进入加热模式。等待大约 30 分钟。\n4. 待电饭煲自动进入保温模式后。\n5. 将米在电饭煲中闷 10-15 分钟。\n6. 盛出米。\n\n## 附加内容\n\n- 技术总结\n  - 不论什么容器，水的量都是可以使用“指尖量水法”煮出好米饭。\n  - 水的多少是能够严重影响一碗好米饭的口感。\n  - 南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆。\n  - 米饭不同品种的米，不同的水量会极度影响口感。\n- 更多信息请参考使用的电饭煲的说明书。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "电饭煲蒸米饭的做法",
+          "ingredients": [
+            "江南米或北方大米 100-200ml/人",
+            "水（江南米约高出米面2.6cm；北方米约2cm，按来源指尖法）"
+          ],
+          "steps": [
+            "清洗米",
+            "将米和水一起加入电饭煲中。",
+            "连接电饭煲电源，进入加热模式。等待大约 30 分钟。",
+            "待电饭煲自动进入保温模式后。",
+            "将米在电饭煲中闷 10-15 分钟。",
+            "盛出米。"
+          ],
+          "notes": [
+            "- 技术总结\n  - 不论什么容器，水的量都是可以使用“指尖量水法”煮出好米饭。\n  - 水的多少是能够严重影响一碗好米饭的口感。\n  - 南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆。\n  - 米饭不同品种的米，不同的水量会极度影响口感。\n- 更多信息请参考使用的电饭煲的说明书。"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "f65532dde2c9b84f1ba5d5c9e66ad1f2f9be06ed48797c13b64ad4e1f4b5b6ad",
+          "ingredients_text": "## 必备原料和工具\n\n* 电饭煲\n* 江南米或北方大米\n* 水\n\n## 计算\n\n* 一般一个人可以食用 100ml-200ml 的米。\n\n指尖量水法 （用于精准确定米水量的方法）\n\n* 江南米，米和水放在电饭煲的容器内，食指触及米时，水量能刚好没过食指的第一个指节又第二个指节 1/4 处（即大约 2.6 厘米）。\n* 北方大米，米和水放在电饭煲的容器内，食指触及米，水量能刚好没过食指的第一个指节（即大约 2 厘米处）。\n\n使用上述条件，计算出计划使用的原材料比例。",
+          "steps_text": "## 操作\n\n1. 清洗米\n2. 将米和水一起加入电饭煲中。\n3. 连接电饭煲电源，进入加热模式。等待大约 30 分钟。\n4. 待电饭煲自动进入保温模式后。\n5. 将米在电饭煲中闷 10-15 分钟。\n6. 盛出米。",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。",
+            "未识别到明确份数或每份基准原文，份数留空。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文水量是指尖法，依米种与设备存在差异，未伪造精确毫升比例；电饭煲说明书提醒保留。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 35,
+            "body": "- 技术总结\n  - 不论什么容器，水的量都是可以使用“指尖量水法”煮出好米饭。\n  - 水的多少是能够严重影响一碗好米饭的口感。\n  - 南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆。\n  - 米饭不同品种的米，不同的水量会极度影响口感。\n- 更多信息请参考使用的电饭煲的说明书。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 技术总结\n  - 不论什么容器，水的量都是可以使用“指尖量水法”煮出好米饭。\n  - 水的多少是能够严重影响一碗好米饭的口感。\n  - 南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆。\n  - 米饭不同品种的米，不同的水量会极度影响口感。\n- 更多信息请参考使用的电饭煲的说明书。\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文水量是指尖法，依米种与设备存在差异，未伪造精确毫升比例；电饭煲说明书提醒保留。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "煮锅蒸米饭",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/staple/%E7%B1%B3%E9%A5%AD/%E7%85%AE%E9%94%85%E8%92%B8%E7%B1%B3%E9%A5%AD.md",
+      "status": "draft",
+      "ingredients": [
+        "北方大米 100-200ml/人",
+        "水（体积为米的2倍）"
+      ],
+      "steps": [
+        "清洗大米",
+        "将米和水加入煮锅",
+        "大火煮至水沸腾",
+        "搅拌底部防止粘黏",
+        "盖上锅盖，转小火加热 10-15 分钟（根据对软糯程度的喜好），中途切勿打开锅盖",
+        "关火，静置 5 分钟",
+        "享用。"
+      ],
+      "notes": [
+        "腐国人研究煮米饭，好想送他们个电饭煲！"
+      ],
+      "servings_text": "来源未说明固定人数",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/staple/米饭/煮锅蒸米饭.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [],
+        "source_servings_text": null,
+        "content_sha256": "0e9d2218d45694002cea57acad64b4f21353d290e06e8b701cd1fcebe5129285",
+        "reviewed_source_sha256": "0e9d2218d45694002cea57acad64b4f21353d290e06e8b701cd1fcebe5129285",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "体积为米的2倍"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "体积为米的2倍"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "体积为米的2倍"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "\n# 煮锅蒸米饭的做法\n\n这是一道朴实无华的家常主食，用普通煮锅就能做出软糯适口的米饭。白米饭主要提供碳水化合物，为身体快速补充能量。做法极为简单，新手只需全程关注火候即可轻松掌握，从下米到出锅大约需要 25 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：418 大卡\n\n## 必备原料和工具\n\n- 北方大米\n- 水\n- 厚底煮锅+严丝合缝的锅盖（制作过程中不会有大量蒸汽泄漏）\n\n## 计算\n\n- 米：100ml-200ml/人\n- 水：米的体积的 2 倍\n\n## 操作\n\n1. 清洗大米\n2. 将米和水加入煮锅\n3. 大火煮至水沸腾\n4. **搅拌底部防止粘黏**\n5. 盖上锅盖，转**小火**加热 10-15 分钟（根据对软糯程度的喜好），中途切勿打开锅盖\n6. 关火，静置 5 分钟\n7. Enjoy :)\n\n![煮锅蒸米饭-预览图-1](./rice_regularPot.jpeg)\n\n## 附加内容\n\n[腐国人研究煮米饭，好想送他们个电饭煲！](https://www.bilibili.com/video/BV1RW411z7r9)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "煮锅蒸米饭的做法",
+          "ingredients": [
+            "北方大米 100-200ml/人",
+            "水（体积为米的2倍）"
+          ],
+          "steps": [
+            "清洗大米",
+            "将米和水加入煮锅",
+            "大火煮至水沸腾",
+            "搅拌底部防止粘黏",
+            "盖上锅盖，转小火加热 10-15 分钟（根据对软糯程度的喜好），中途切勿打开锅盖",
+            "关火，静置 5 分钟",
+            "享用。"
+          ],
+          "notes": [
+            "腐国人研究煮米饭，好想送他们个电饭煲！"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "0e9d2218d45694002cea57acad64b4f21353d290e06e8b701cd1fcebe5129285",
+          "ingredients_text": "## 必备原料和工具\n\n- 北方大米\n- 水\n- 厚底煮锅+严丝合缝的锅盖（制作过程中不会有大量蒸汽泄漏）\n\n## 计算\n\n- 米：100ml-200ml/人\n- 水：米的体积的 2 倍",
+          "steps_text": "## 操作\n\n1. 清洗大米\n2. 将米和水加入煮锅\n3. 大火煮至水沸腾\n4. **搅拌底部防止粘黏**\n5. 盖上锅盖，转**小火**加热 10-15 分钟（根据对软糯程度的喜好），中途切勿打开锅盖\n6. 关火，静置 5 分钟\n7. Enjoy :)\n\n![煮锅蒸米饭-预览图-1](./rice_regularPot.jpeg)",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。",
+            "未识别到明确份数或每份基准原文，份数留空。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文米水体积2倍、小火10–15分钟和关火5分钟原样保留；末尾Enjoy仅转为“享用”，没有改变烹饪条件。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 33,
+            "body": "[腐国人研究煮米饭，好想送他们个电饭煲！](https://www.bilibili.com/video/BV1RW411z7r9)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n[腐国人研究煮米饭，好想送他们个电饭煲！](https://www.bilibili.com/video/BV1RW411z7r9)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文米水体积2倍、小火10–15分钟和关火5分钟原样保留；末尾Enjoy仅转为“享用”，没有改变烹饪条件。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "小米粥",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/soup/%E5%B0%8F%E7%B1%B3%E7%B2%A5.md",
+      "status": "draft",
+      "ingredients": [
+        "小米 100g",
+        "水 2000g"
+      ],
+      "steps": [
+        "小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）",
+        "水烧开，务必烧开！！！",
+        "水烧开沸腾时，将小米倒入锅内。（很容易被忽视的一个很重要的环节）",
+        "搅拌使得小米不会粘连锅底，继续用大火熬 6-10 分钟，注意用中间穿插搅拌几次。",
+        "改中火、文火熬 15-20 分钟，锅盖要错开一条缝，千万不能让小米油溜掉哟，中间继续搅拌几次，不要糊锅底"
+      ],
+      "notes": [
+        "这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水\n 小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的\n 千万记住小米需要在水开的时候下锅\n 不喜欢放碱，更喜欢原汁原味的小米香"
+      ],
+      "servings_text": "来源未说明固定人数",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/soup/小米粥.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "serving_count_unspecified"
+        ],
+        "source_servings_text": null,
+        "content_sha256": "de965ceae0095c73045666f1b126a1eb61dc4806f8be492cea9dfbc7ce26e27d",
+        "reviewed_source_sha256": "de965ceae0095c73045666f1b126a1eb61dc4806f8be492cea9dfbc7ce26e27d",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "suitable",
+            "denied": [],
+            "unknown": [],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 小米粥的做法\n\n小米粥是一道北方常见的家常粥品，口感绵滑，米香浓郁，熬出的米油尤其养胃。它富含蛋白质、脂肪、碳水化合物和胡萝卜素，维生素 B1 含量在粮食中名列前茅，容易消化吸收。做法非常简单，新手也能轻松掌握，从烧水到出锅大约需要 30-35 分钟。\n\n预估烹饪难度：★★\n\n预估卡路里：362 大卡\n\n## 必备原料和工具\n\n- 小米\n- 水（山泉水最佳）\n\n## 计算\n\n- 小米 100 克\n- 水（山泉水最佳） 2000 克\n\n使用上述条件，计算出计划使用的原材料比例。\n\n## 操作\n\n1. 小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）\n2. 水烧开，务必烧开！！！\n3. 水烧开沸腾时，将小米倒入锅内。（很容易被忽视的一个很重要的环节）\n4. 搅拌使得小米不会粘连锅底，继续用大火熬 6-10 分钟，注意用中间穿插搅拌几次。\n5. 改中火、文火熬 15-20 分钟，锅盖要错开一条缝，千万不能让小米油溜掉哟，中间继续搅拌几次，不要糊锅底\n\n## 附加内容\n\n* 这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水\n* 小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的\n* 千万记住小米需要在水开的时候下锅\n* 不喜欢放碱，更喜欢原汁原味的小米香\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "小米粥的做法",
+          "ingredients": [
+            "小米 100g",
+            "水 2000g"
+          ],
+          "steps": [
+            "小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）",
+            "水烧开，务必烧开！！！",
+            "水烧开沸腾时，将小米倒入锅内。（很容易被忽视的一个很重要的环节）",
+            "搅拌使得小米不会粘连锅底，继续用大火熬 6-10 分钟，注意用中间穿插搅拌几次。",
+            "改中火、文火熬 15-20 分钟，锅盖要错开一条缝，千万不能让小米油溜掉哟，中间继续搅拌几次，不要糊锅底"
+          ],
+          "notes": [
+            "这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水\n 小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的\n 千万记住小米需要在水开的时候下锅\n 不喜欢放碱，更喜欢原汁原味的小米香"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "de965ceae0095c73045666f1b126a1eb61dc4806f8be492cea9dfbc7ce26e27d",
+          "ingredients_text": "## 必备原料和工具\n\n- 小米\n- 水（山泉水最佳）\n\n## 计算\n\n- 小米 100 克\n- 水（山泉水最佳） 2000 克\n\n使用上述条件，计算出计划使用的原材料比例。",
+          "steps_text": "## 操作\n\n1. 小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）\n2. 水烧开，务必烧开！！！\n3. 水烧开沸腾时，将小米倒入锅内。（很容易被忽视的一个很重要的环节）\n4. 搅拌使得小米不会粘连锅底，继续用大火熬 6-10 分钟，注意用中间穿插搅拌几次。\n5. 改中火、文火熬 15-20 分钟，锅盖要错开一条缝，千万不能让小米油溜掉哟，中间继续搅拌几次，不要糊锅底",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。",
+            "未识别到明确份数或每份基准原文，份数留空。"
+          ]
+        },
+        "editorial_review_notes": [
+          "普通锅路线完整保留；附加内容高压锅/电饭锅建议1800g水单独留作来源分支，没有混进主路线。原文养胃等功效未作为结论。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 29,
+            "body": "* 这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水\n* 小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的\n* 千万记住小米需要在水开的时候下锅\n* 不喜欢放碱，更喜欢原汁原味的小米香\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n* 这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水\n* 小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的\n* 千万记住小米需要在水开的时候下锅\n* 不喜欢放碱，更喜欢原汁原味的小米香\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。普通锅路线完整保留；附加内容高压锅/电饭锅建议1800g水单独留作来源分支，没有混进主路线。原文养胃等功效未作为结论。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "银耳莲子粥",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/soup/%E9%93%B6%E8%80%B3%E8%8E%B2%E5%AD%90%E7%B2%A5/%E9%93%B6%E8%80%B3%E8%8E%B2%E5%AD%90%E7%B2%A5.md",
+      "status": "draft",
+      "ingredients": [
+        "银耳 60g",
+        "去心莲子 20g",
+        "红枣 6g",
+        "枸杞 5-6g（可选）",
+        "冰糖 10-20g（分两次各5-10g）",
+        "水 600ml（另需浸泡水，用量原文未给）"
+      ],
+      "steps": [
+        "把银耳、莲子用清水浸泡 2 个小时，红枣浸泡 10 - 20 分钟，枸杞洗净，备用",
+        "在锅中倒入 600ml 水，烧开后依次放入银耳、莲子、红枣",
+        "等待水再次烧开后，盖上锅盖，转至中火继续熬",
+        "熬到大约 1 小时后，放入 5g - 10g 冰糖和 5g - 6g 枸杞，转至小火熬",
+        "小火继续熬 30 分钟，此时银耳开始呈现粘稠状态",
+        "再次放入 5g - 10g 冰糖，用勺子搅拌 5 - 10 分钟",
+        "关火，用勺子盛出"
+      ],
+      "notes": [
+        "- 当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底"
+      ],
+      "servings_text": "按照 1 人的份量：",
+      "servings": 1,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/soup/银耳莲子粥/银耳莲子粥.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "dried_or_fresh_ingredient_ambiguous",
+          "cooking_conditions_not_professionally_reviewed"
+        ],
+        "source_servings_text": "按照 1 人的份量：",
+        "content_sha256": "26b2d70247e989e283a21319280f9f2e38bab15b21be2019127717cf6235d404",
+        "reviewed_source_sha256": "26b2d70247e989e283a21319280f9f2e38bab15b21be2019127717cf6235d404",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "银耳",
+              "去心莲子",
+              "枸杞",
+              "分两次各",
+              "另需浸泡水",
+              "用量原文未给"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "银耳",
+              "去心莲子",
+              "枸杞",
+              "分两次各",
+              "另需浸泡水",
+              "用量原文未给"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "银耳",
+              "去心莲子",
+              "枸杞",
+              "分两次各",
+              "另需浸泡水",
+              "用量原文未给"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 银耳莲子粥的做法\n\n![银耳莲子粥](./银耳莲子粥.png)\n\n银耳莲子粥清甜润滑，银耳软糯、莲子绵密，是常见的滋补粥品。富含天然胶质、膳食纤维及多种微量元素，有助养心安神。制作需经历浸泡和慢熬，对新手的耐心是个考验，全程大约需要 3.5 小时。\n\n预估烹饪难度：★★★★\n\n预估卡路里：282 大卡\n\n## 必备原料和工具\n\n- 银耳\n- 去心莲子\n- 红枣\n- 枸杞（可选）\n- 冰糖\n\n## 计算\n\n按照 1 人的份量：\n\n- 银耳 60g\n- 去心莲子 20g\n- 红枣 6g\n- 枸杞 5-6g\n- 冰糖 10-20g\n\n## 操作\n\n1. 把银耳、莲子用清水浸泡 2 个小时，红枣浸泡 10 - 20 分钟，枸杞洗净，备用\n2. 在锅中倒入 600ml 水，烧开后依次放入银耳、莲子、红枣\n3. 等待水再次烧开后，盖上锅盖，转至中火继续熬\n4. 熬到大约 1 小时后，放入 5g - 10g 冰糖和 5g - 6g 枸杞，转至小火熬\n5. 小火继续熬 30 分钟，此时银耳开始呈现粘稠状态\n6. 再次放入 5g - 10g 冰糖，用勺子搅拌 5 - 10 分钟\n7. 关火，用勺子盛出\n\n## 附加内容\n\n- 当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "银耳莲子粥的做法",
+          "ingredients": [
+            "银耳 60g",
+            "去心莲子 20g",
+            "红枣 6g",
+            "枸杞 5-6g（可选）",
+            "冰糖 10-20g（分两次各5-10g）",
+            "水 600ml（另需浸泡水，用量原文未给）"
+          ],
+          "steps": [
+            "把银耳、莲子用清水浸泡 2 个小时，红枣浸泡 10 - 20 分钟，枸杞洗净，备用",
+            "在锅中倒入 600ml 水，烧开后依次放入银耳、莲子、红枣",
+            "等待水再次烧开后，盖上锅盖，转至中火继续熬",
+            "熬到大约 1 小时后，放入 5g - 10g 冰糖和 5g - 6g 枸杞，转至小火熬",
+            "小火继续熬 30 分钟，此时银耳开始呈现粘稠状态",
+            "再次放入 5g - 10g 冰糖，用勺子搅拌 5 - 10 分钟",
+            "关火，用勺子盛出"
+          ],
+          "notes": [
+            "- 当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "26b2d70247e989e283a21319280f9f2e38bab15b21be2019127717cf6235d404",
+          "ingredients_text": "## 必备原料和工具\n\n- 银耳\n- 去心莲子\n- 红枣\n- 枸杞（可选）\n- 冰糖\n\n## 计算\n\n按照 1 人的份量：\n\n- 银耳 60g\n- 去心莲子 20g\n- 红枣 6g\n- 枸杞 5-6g\n- 冰糖 10-20g",
+          "steps_text": "## 操作\n\n1. 把银耳、莲子用清水浸泡 2 个小时，红枣浸泡 10 - 20 分钟，枸杞洗净，备用\n2. 在锅中倒入 600ml 水，烧开后依次放入银耳、莲子、红枣\n3. 等待水再次烧开后，盖上锅盖，转至中火继续熬\n4. 熬到大约 1 小时后，放入 5g - 10g 冰糖和 5g - 6g 枸杞，转至小火熬\n5. 小火继续熬 30 分钟，此时银耳开始呈现粘稠状态\n6. 再次放入 5g - 10g 冰糖，用勺子搅拌 5 - 10 分钟\n7. 关火，用勺子盛出",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "银耳60g未写明干/鲜，未据常识改数；600ml操作用水补入；浸泡/熬制条件未做食品安全专业审核。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 39,
+            "body": "- 当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。银耳60g未写明干/鲜，未据常识改数；600ml操作用水补入；浸泡/熬制条件未做食品安全专业审核。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "奇异果菠菜特调",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/drink/%E5%A5%87%E5%BC%82%E6%9E%9C%E8%8F%A0%E8%8F%9C%E7%89%B9%E8%B0%83/%E5%A5%87%E5%BC%82%E6%9E%9C%E8%8F%A0%E8%8F%9C%E7%89%B9%E8%B0%83.md",
+      "status": "draft",
+      "ingredients": [
+        "饮用水 700ml",
+        "奇异果 2 个",
+        "苹果 1/2 个",
+        "菠菜叶 4 叶",
+        "白砂糖 12g（可按原文0-12g调整）"
+      ],
+      "steps": [
+        "将猕猴桃切成两半，每半再分四份小块",
+        "将苹果切丁",
+        "将菠菜叶去梗，只留叶子部分",
+        "将菠菜切碎",
+        "一起倒入榨汁机搅拌杯",
+        "注水",
+        "加入白砂糖",
+        "启动搅拌机，搅拌约 4 个 15 秒（每 15 秒停下看状态）"
+      ],
+      "notes": [
+        "- 关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整\n- 本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错\n- 欢迎改进！\n\n### 成品"
+      ],
+      "servings_text": "来源未说明固定人数",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "raw_leaf_handling_unspecified",
+          "serving_count_unspecified"
+        ],
+        "source_servings_text": null,
+        "content_sha256": "751a436128405b70ea9f51f51ebebed6399f498101032c5117d62f73c6d5c374",
+        "reviewed_source_sha256": "751a436128405b70ea9f51f51ebebed6399f498101032c5117d62f73c6d5c374",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "奇异果",
+              "菠菜叶 4 叶",
+              "可按原文 调整"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "奇异果",
+              "菠菜叶 4 叶",
+              "可按原文 调整"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "奇异果",
+              "菠菜叶 4 叶",
+              "可按原文 调整"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 奇异果菠菜特调的做法\n\n这是一道清爽健康的果蔬特饮，口感酸甜细腻，带有奇异果与苹果的天然果香，菠菜味清淡不抢。富含维生素 C 和膳食纤维，有助于促进消化。制作非常简单，新手也能一次成功，全程预计只需 10 分钟。\n\n预估烹饪难度：★\n\n预估卡路里：184 大卡\n\n## 必备原料和工具\n\n- 原料:\n  - 奇异果\n  - 苹果\n  - 菠菜叶（ 2-5 片）\n  - 水\n  - 白砂糖\n- 工具\n  - 榨汁机\n\n## 计算\n\n- 饮用水 700ml\n- 奇异果 2 个\n- 苹果 1/2 个\n- 菠菜叶 4 叶\n- 白砂糖 12 克\n\n## 操作\n\n1. 将猕猴桃切成两半，每半再分四份小块\n2. 将苹果切丁\n3. 将菠菜叶去梗，只留叶子部分\n4. 将菠菜切碎\n5. 一起倒入榨汁机搅拌杯\n6. 注水\n7. 加入白砂糖\n8. 启动搅拌机，搅拌约 4 个 15 秒（每 15 秒停下看状态）\n\n## 附加内容\n\n- 关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整\n- 本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错\n- 欢迎改进！\n\n### 成品\n\n![奇异果菠菜特调](kiwi-example.jpg)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "奇异果菠菜特调的做法",
+          "ingredients": [
+            "饮用水 700ml",
+            "奇异果 2 个",
+            "苹果 1/2 个",
+            "菠菜叶 4 叶",
+            "白砂糖 12g（可按原文0-12g调整）"
+          ],
+          "steps": [
+            "将猕猴桃切成两半，每半再分四份小块",
+            "将苹果切丁",
+            "将菠菜叶去梗，只留叶子部分",
+            "将菠菜切碎",
+            "一起倒入榨汁机搅拌杯",
+            "注水",
+            "加入白砂糖",
+            "启动搅拌机，搅拌约 4 个 15 秒（每 15 秒停下看状态）"
+          ],
+          "notes": [
+            "- 关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整\n- 本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错\n- 欢迎改进！\n\n### 成品"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "751a436128405b70ea9f51f51ebebed6399f498101032c5117d62f73c6d5c374",
+          "ingredients_text": "## 必备原料和工具\n\n- 原料:\n  - 奇异果\n  - 苹果\n  - 菠菜叶（ 2-5 片）\n  - 水\n  - 白砂糖\n- 工具\n  - 榨汁机\n\n## 计算\n\n- 饮用水 700ml\n- 奇异果 2 个\n- 苹果 1/2 个\n- 菠菜叶 4 叶\n- 白砂糖 12 克",
+          "steps_text": "## 操作\n\n1. 将猕猴桃切成两半，每半再分四份小块\n2. 将苹果切丁\n3. 将菠菜叶去梗，只留叶子部分\n4. 将菠菜切碎\n5. 一起倒入榨汁机搅拌杯\n6. 注水\n7. 加入白砂糖\n8. 启动搅拌机，搅拌约 4 个 15 秒（每 15 秒停下看状态）",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。",
+            "未识别到明确份数或每份基准原文，份数留空。"
+          ]
+        },
+        "editorial_review_notes": [
+          "原文未写菠菜清洗/生食处理条件，待补充后再考虑发布；工具榨汁机移出食材。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 39,
+            "body": "- 关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整\n- 本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错\n- 欢迎改进！\n\n### 成品\n\n![奇异果菠菜特调](kiwi-example.jpg)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n- 关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整\n- 本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错\n- 欢迎改进！\n\n### 成品\n\n![奇异果菠菜特调](kiwi-example.jpg)\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。原文未写菠菜清洗/生食处理条件，待补充后再考虑发布；工具榨汁机移出食材。 未获用户发布确认。"
+    },
+    {
+      "type": "recipe",
+      "title": "醪糟小汤圆",
+      "source": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/dishes/staple/%E9%86%AA%E7%B3%9F%E5%B0%8F%E6%B1%A4%E5%9C%86.md",
+      "status": "draft",
+      "ingredients": [
+        "水 300ml",
+        "小汤圆 250g",
+        "醪糟 50g",
+        "枸杞 5 颗（可选）",
+        "白糖（按口味，原文未给用量）"
+      ],
+      "steps": [
+        "将水倒入锅中并煮沸",
+        "放入小汤圆煮 8 分钟",
+        "放入醪糟和枸杞再煮 2 分钟",
+        "盛入碗中根据个人口味加入白糖并搅拌均匀",
+        "吃"
+      ],
+      "notes": [
+        "白糖的用量根据个人口味更改\n 若喜欢更浓的口感可以减少 100 毫升内的水\n 若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮"
+      ],
+      "servings_text": "每次制作前需要确定计划做几份。一份正好够 1-2 个人食用",
+      "servings": null,
+      "meal": null,
+      "cuisine": "chinese",
+      "nutrition_notes": "",
+      "body": "来源原料/用量/操作/附加内容已经AI逐条对照，尚未获发布批准、未试做、未经营养或食品安全专业审核。",
+      "conditions": {
+        "source_id": "howtocook:dishes/staple/醪糟小汤圆.md",
+        "source_revision": "5fb3140c20b2a713296696dc6fdd3b83ccc617a6",
+        "license": {
+          "id": "Unlicense",
+          "attribution": "Anduin2017/HowToCook contributors",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/5fb3140c20b2a713296696dc6fdd3b83ccc617a6/LICENSE"
+        },
+        "language": "zh-CN",
+        "display_language": "zh-CN",
+        "source_structural_complete": true,
+        "manual_reviewed": false,
+        "publication_approved": false,
+        "quality_flags": [
+          "compound_labels_pending",
+          "optional_quantities_unspecified"
+        ],
+        "source_servings_text": "每次制作前需要确定计划做几份。一份正好够 1-2 个人食用",
+        "content_sha256": "1449462c523baf3e63113536b271ef31045b0dd308577b1117fd9c0229455c39",
+        "reviewed_source_sha256": "1449462c523baf3e63113536b271ef31045b0dd308577b1117fd9c0229455c39",
+        "ai_source_review": true,
+        "review_scope": "AI source text comparison; not professional or trial review",
+        "source_author": "Anduin2017/HowToCook contributors",
+        "source_checked_at": "2026-10-26",
+        "machine_rules_version": "ingredients-2026-10-26.2",
+        "machine_diet_labels": {
+          "pure": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "小汤圆",
+              "醪糟",
+              "枸杞",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          },
+          "vegan": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "小汤圆",
+              "醪糟",
+              "枸杞",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          },
+          "lacto_ovo": {
+            "status": "uncertain",
+            "denied": [],
+            "unknown": [
+              "小汤圆",
+              "醪糟",
+              "枸杞",
+              "原文未给用量"
+            ],
+            "incomplete": false
+          }
+        },
+        "machine_rules_sha256": "7209616cea483fc6975b2f0a55795687f63f24dd5f3daf17600910edbced129d",
+        "original_content": {
+          "markdown": "# 醪糟小汤圆的做法\n\n醪糟小汤圆是一道香甜软糯的传统中式甜品，酒酿的微酸与糯米的绵滑交融，暖胃又舒心。它富含碳水化合物和少量 B 族维生素，能快速补充能量，也有助促进血液循环。做法毫无门槛，对新手特别友好，从烧水到出锅只需约 15 分钟，是一碗随时都能轻松完成的家常甜汤。\n\n预估烹饪难度：★★\n\n预估卡路里：957 大卡\n\n## 必备原料和工具\n\n* 小汤圆\n* 醪糟\n* 白糖\n* 枸杞（可选）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1-2 个人食用\n\n总量：\n\n* 水 300 毫升 * 份数\n* 小汤圆 250 克 * 份数\n* 醪糟 50 克 * 份数\n* 枸杞 5 颗 * 份数\n* 白糖\n\n## 操作\n\n1. 将水倒入锅中并煮沸\n2. 放入小汤圆煮 8 分钟\n3. 放入醪糟和枸杞再煮 2 分钟\n4. 盛入碗中根据个人口味加入白糖并搅拌均匀\n5. 吃\n\n## 附加内容\n\n* 白糖的用量根据个人口味更改\n* 若喜欢更浓的口感可以减少 100 毫升内的水\n* 若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\n",
+          "title": "醪糟小汤圆的做法",
+          "ingredients": [
+            "水 300ml",
+            "小汤圆 250g",
+            "醪糟 50g",
+            "枸杞 5 颗（可选）",
+            "白糖（按口味，原文未给用量）"
+          ],
+          "steps": [
+            "将水倒入锅中并煮沸",
+            "放入小汤圆煮 8 分钟",
+            "放入醪糟和枸杞再煮 2 分钟",
+            "盛入碗中根据个人口味加入白糖并搅拌均匀",
+            "吃"
+          ],
+          "notes": [
+            "白糖的用量根据个人口味更改\n 若喜欢更浓的口感可以减少 100 毫升内的水\n 若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮"
+          ],
+          "language": "zh-CN",
+          "source_sha256": "1449462c523baf3e63113536b271ef31045b0dd308577b1117fd9c0229455c39",
+          "ingredients_text": "## 必备原料和工具\n\n* 小汤圆\n* 醪糟\n* 白糖\n* 枸杞（可选）\n\n## 计算\n\n每次制作前需要确定计划做几份。一份正好够 1-2 个人食用\n\n总量：\n\n* 水 300 毫升 * 份数\n* 小汤圆 250 克 * 份数\n* 醪糟 50 克 * 份数\n* 枸杞 5 颗 * 份数\n* 白糖",
+          "steps_text": "## 操作\n\n1. 将水倒入锅中并煮沸\n2. 放入小汤圆煮 8 分钟\n3. 放入醪糟和枸杞再煮 2 分钟\n4. 盛入碗中根据个人口味加入白糖并搅拌均匀\n5. 吃",
+          "source_parser_issues": [
+            "原料与计算按原文保留，可能混含工具、介绍、可选项和替代分支；未完成食材语义核对。",
+            "步骤可能新增食材或用量，已保留步骤原文，仍需与原料及计算章节跨节核对。"
+          ]
+        },
+        "editorial_review_notes": [
+          "每份1–2人未换算；小汤圆/醪糟需看包装完整配料，不能因为菜名没有肉就标三类都适配。"
+        ],
+        "source_additional_sections": [
+          {
+            "heading": "附加内容",
+            "kind": "other",
+            "level": 2,
+            "line": 36,
+            "body": "* 白糖的用量根据个人口味更改\n* 若喜欢更浓的口感可以减少 100 毫升内的水\n* 若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+            "markdown": "## 附加内容\n\n* 白糖的用量根据个人口味更改\n* 若喜欢更浓的口感可以减少 100 毫升内的水\n* 若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮\n\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+          }
+        ]
+      },
+      "reviewer_note": "AI来源核对。每份1–2人未换算；小汤圆/醪糟需看包装完整配料，不能因为菜名没有肉就标三类都适配。 未获用户发布确认。"
+    }
+  ],
+  "review_summary": [
+    {
+      "id": "HTC-01",
+      "title": "糖拌西红柿",
+      "source_id": "howtocook:dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
+      "quality_flags": [
+        "source_open_flame_peeling_requires_review"
+      ],
+      "diet_labels": {
+        "pure": "suitable",
+        "vegan": "suitable",
+        "lacto_ovo": "suitable"
+      },
+      "review_notes": [
+        "原文有明火旋转烤皮或开水冲皮两种路线；本批未做安全审定，保留原文待确认。",
+        "冰箱是工具，已从食材清单移除；原文营养/功效与热量估计未作为产品结论。"
+      ]
+    },
+    {
+      "id": "HTC-02",
+      "title": "清蒸南瓜",
+      "source_id": "howtocook:dishes/vegetable_dish/清蒸南瓜.md",
+      "quality_flags": [],
+      "diet_labels": {
+        "pure": "suitable",
+        "vegan": "suitable",
+        "lacto_ovo": "suitable"
+      },
+      "review_notes": [
+        "原文每份够1–2人，未擅自换算为固定1人份。蒸锅是工具。"
+      ]
+    },
+    {
+      "id": "HTC-03",
+      "title": "松仁玉米",
+      "source_id": "howtocook:dishes/vegetable_dish/松仁玉米.md",
+      "quality_flags": [
+        "compound_labels_pending",
+        "serving_count_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文“每份”未给人数；未编造份数。罐头玉米与食用油需核对实际配料，不按名字放行。"
+      ]
+    },
+    {
+      "id": "HTC-04",
+      "title": "清炒花菜",
+      "source_id": "howtocook:dishes/vegetable_dish/清炒花菜.md",
+      "quality_flags": [
+        "compound_labels_pending"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文明确2人配菜。操作第3步另用1000ml焯水，已补入食材；蒜为五辛。食用油来源未明确，仍待核。"
+      ]
+    },
+    {
+      "id": "HTC-05",
+      "title": "炒青菜",
+      "source_id": "howtocook:dishes/vegetable_dish/炒青菜.md",
+      "quality_flags": [
+        "compound_labels_pending"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "蒜在计算和操作中出现，已完整补入；食用油仍待核。"
+      ]
+    },
+    {
+      "id": "HTC-06",
+      "title": "凉拌莴笋",
+      "source_id": "howtocook:dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
+      "quality_flags": [
+        "optional_quantities_unspecified",
+        "compound_labels_pending",
+        "serving_count_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "附加内容的生抽/白糖/香醋/芝麻完整保留为可选项，没有为增加适配数量偷偷删掉。"
+      ]
+    },
+    {
+      "id": "HTC-07",
+      "title": "凉拌豆腐",
+      "source_id": "howtocook:dishes/vegetable_dish/凉拌豆腐.md",
+      "quality_flags": [
+        "compound_labels_pending"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "操作第2步的500ml焯水补入；生抽等复合调味按实际标签待核，小葱和大蒜不适配纯净素。"
+      ]
+    },
+    {
+      "id": "HTC-08",
+      "title": "凉拌金针菇",
+      "source_id": "howtocook:dishes/vegetable_dish/凉拌金针菇.md",
+      "quality_flags": [
+        "compound_labels_pending",
+        "cooking_conditions_not_professionally_reviewed"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "操作中1000ml用水补入；原文焯煮条件仅作为来源记录，本批未做食品安全专业审核。"
+      ]
+    },
+    {
+      "id": "HTC-09",
+      "title": "虎皮青椒",
+      "source_id": "howtocook:dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
+      "quality_flags": [
+        "compound_labels_pending",
+        "serving_count_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "“砵/碗”是工具已移除；油的品种及生抽实际成分仍待核，不替来源指定植物油。"
+      ]
+    },
+    {
+      "id": "HTC-10",
+      "title": "烤茄子",
+      "source_id": "howtocook:dishes/vegetable_dish/烤茄子/烤茄子.md",
+      "quality_flags": [
+        "compound_labels_pending"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文200℃两段烤制、表面擦干/涂油/扎孔及爆裂注意事项完整保留，未删成一步简写。"
+      ]
+    },
+    {
+      "id": "HTC-11",
+      "title": "酸辣土豆丝",
+      "source_id": "howtocook:dishes/vegetable_dish/酸辣土豆丝.md",
+      "quality_flags": [
+        "compound_labels_pending",
+        "serving_count_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文每份未给人数；葱蒜不适配纯净素，调味品待核。"
+      ]
+    },
+    {
+      "id": "HTC-12",
+      "title": "印度土豆花菜",
+      "source_id": "howtocook:dishes/vegetable_dish/印度土豆花菜.md",
+      "quality_flags": [
+        "compound_labels_pending"
+      ],
+      "diet_labels": {
+        "pure": "not_suitable",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文明示北印度Aloo Gobi，归入外国菜而不是按中文语言推断中国菜。每份2–3人不固定；综合香料和食用油需核标签。附加内容配饼/饭建议不计作本菜原料。"
+      ]
+    },
+    {
+      "id": "HTC-13",
+      "title": "桂圆红枣粥",
+      "source_id": "howtocook:dishes/breakfast/桂圆红枣粥.md",
+      "quality_flags": [
+        "serving_count_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "操作第3步2000ml清水补入；原文“每份”未给人数；原文补血安神等功效未作为本产品结论。"
+      ]
+    },
+    {
+      "id": "HTC-14",
+      "title": "水煮玉米",
+      "source_id": "howtocook:dishes/breakfast/水煮玉米.md",
+      "quality_flags": [
+        "source_salt_ratio_ambiguous",
+        "optional_quantities_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文盐水表达存在歧义，不自行纠正为猜测比例，保留待复核；15–20分钟是来源做法，不是通用安全保证。"
+      ]
+    },
+    {
+      "id": "HTC-15",
+      "title": "电饭煲蒸米饭",
+      "source_id": "howtocook:dishes/staple/米饭/电饭煲蒸米饭.md",
+      "quality_flags": [
+        "water_measure_depends_on_equipment"
+      ],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文水量是指尖法，依米种与设备存在差异，未伪造精确毫升比例；电饭煲说明书提醒保留。"
+      ]
+    },
+    {
+      "id": "HTC-16",
+      "title": "煮锅蒸米饭",
+      "source_id": "howtocook:dishes/staple/米饭/煮锅蒸米饭.md",
+      "quality_flags": [],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文米水体积2倍、小火10–15分钟和关火5分钟原样保留；末尾Enjoy仅转为“享用”，没有改变烹饪条件。"
+      ]
+    },
+    {
+      "id": "HTC-17",
+      "title": "小米粥",
+      "source_id": "howtocook:dishes/soup/小米粥.md",
+      "quality_flags": [
+        "serving_count_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "suitable",
+        "vegan": "suitable",
+        "lacto_ovo": "suitable"
+      },
+      "review_notes": [
+        "普通锅路线完整保留；附加内容高压锅/电饭锅建议1800g水单独留作来源分支，没有混进主路线。原文养胃等功效未作为结论。"
+      ]
+    },
+    {
+      "id": "HTC-18",
+      "title": "银耳莲子粥",
+      "source_id": "howtocook:dishes/soup/银耳莲子粥/银耳莲子粥.md",
+      "quality_flags": [
+        "dried_or_fresh_ingredient_ambiguous",
+        "cooking_conditions_not_professionally_reviewed"
+      ],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "银耳60g未写明干/鲜，未据常识改数；600ml操作用水补入；浸泡/熬制条件未做食品安全专业审核。"
+      ]
+    },
+    {
+      "id": "HTC-19",
+      "title": "奇异果菠菜特调",
+      "source_id": "howtocook:dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md",
+      "quality_flags": [
+        "raw_leaf_handling_unspecified",
+        "serving_count_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "原文未写菠菜清洗/生食处理条件，待补充后再考虑发布；工具榨汁机移出食材。"
+      ]
+    },
+    {
+      "id": "HTC-20",
+      "title": "醪糟小汤圆",
+      "source_id": "howtocook:dishes/staple/醪糟小汤圆.md",
+      "quality_flags": [
+        "compound_labels_pending",
+        "optional_quantities_unspecified"
+      ],
+      "diet_labels": {
+        "pure": "uncertain",
+        "vegan": "uncertain",
+        "lacto_ovo": "uncertain"
+      },
+      "review_notes": [
+        "每份1–2人未换算；小汤圆/醪糟需看包装完整配料，不能因为菜名没有肉就标三类都适配。"
+      ]
+    }
+  ]
+}

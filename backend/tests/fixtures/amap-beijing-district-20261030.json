@@ -1,0 +1,162 @@
+{
+  "status": "1",
+  "info": "OK",
+  "infocode": "10000",
+  "count": "2",
+  "districts": [
+    {
+      "citycode": "010",
+      "adcode": "110000",
+      "name": "北京市",
+      "center": "116.407387,39.904179",
+      "level": "province",
+      "districts": [
+        {
+          "citycode": "010",
+          "adcode": "110100",
+          "name": "北京城区",
+          "center": "116.405285,39.904989",
+          "level": "city",
+          "districts": []
+        }
+      ]
+    },
+    {
+      "citycode": "010",
+      "adcode": "110100",
+      "name": "北京城区",
+      "center": "116.405285,39.904989",
+      "level": "city",
+      "districts": [
+        {
+          "citycode": "010",
+          "adcode": "110116",
+          "name": "怀柔区",
+          "center": "116.631974,40.317003",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110109",
+          "name": "门头沟区",
+          "center": "116.101668,39.940842",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110111",
+          "name": "房山区",
+          "center": "116.143426,39.748889",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110117",
+          "name": "平谷区",
+          "center": "117.121589,40.140805",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110107",
+          "name": "石景山区",
+          "center": "116.223015,39.906304",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110108",
+          "name": "海淀区",
+          "center": "116.2977,39.959893",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110119",
+          "name": "延庆区",
+          "center": "115.974609,40.457033",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110113",
+          "name": "顺义区",
+          "center": "116.661474,40.149891",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110105",
+          "name": "朝阳区",
+          "center": "116.443136,39.921444",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110114",
+          "name": "昌平区",
+          "center": "116.231034,40.220952",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110102",
+          "name": "西城区",
+          "center": "116.36585,39.9126",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110112",
+          "name": "通州区",
+          "center": "116.664264,39.909698",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110115",
+          "name": "大兴区",
+          "center": "116.341483,39.726917",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110106",
+          "name": "丰台区",
+          "center": "116.286726,39.858538",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110101",
+          "name": "东城区",
+          "center": "116.416334,39.928359",
+          "level": "district",
+          "districts": []
+        },
+        {
+          "citycode": "010",
+          "adcode": "110118",
+          "name": "密云区",
+          "center": "116.843351,40.377058",
+          "level": "district",
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

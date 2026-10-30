@@ -1,0 +1,35 @@
+{
+    email {$ACME_EMAIL}
+    admin off
+}
+
+{$SITE_DOMAIN} {
+    encode zstd gzip
+    header {
+        -Server
+        X-Content-Type-Options nosniff
+        Referrer-Policy same-origin
+    }
+    # No access log: avoid persisting cookies, private paths and map query strings.
+    request_body {
+        max_size 12MB
+    }
+    @private_files path /.env /.env* /.git /.git/* /data /data/* /backend /backend/* /deploy /deploy/* /media /media/* /audio /audio/* /images /images/*
+    handle @private_files {
+        respond 404
+    }
+    @api path /api/v1 /api/v1/*
+    handle @api {
+        reverse_proxy api:8000 {
+            header_up X-Forwarded-For {remote_host}
+            header_up -Forwarded
+            transport http {
+                dial_timeout 5s
+                response_header_timeout 65s
+            }
+        }
+    }
+    handle {
+        reverse_proxy web:3000
+    }
+}

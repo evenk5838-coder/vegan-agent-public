@@ -1,0 +1,21 @@
+.plan { margin:12px 0; min-width:0; }
+.summary { display:grid; gap:7px; min-width:0; color:var(--green); text-align:left; }
+.label { font-size:15px; font-weight:600; line-height:1.5; overflow-wrap:anywhere; }
+.badge { width:fit-content; padding:3px 8px; border-radius:8px; background:var(--sage-light,#eef1e5); color:var(--green); font-size:11px; line-height:1.6; }
+.reminders { margin-top:12px; font-size:12px; line-height:1.7; color:var(--muted); }
+.reminders strong { color:var(--green); font-weight:500; }
+.reminders p { margin:4px 0; }
+.date { font-size:11px; line-height:1.65; color:var(--muted); }
+.progress { appearance:none; border:0; width:100%; height:6px; border-radius:8px; overflow:hidden; background:#e6eadc; color:#82966d; }
+.progress::-webkit-progress-bar { background:#e6eadc; border-radius:8px; }
+.progress::-webkit-progress-value { background:#82966d; border-radius:8px; }
+.progress::-moz-progress-bar { background:#82966d; border-radius:8px; }
+.due { color:var(--amber); }
+.due .progress::-webkit-progress-value { background:#b58d54; }
+.due .progress::-moz-progress-bar { background:#b58d54; }
+.details { margin-top:10px; font-size:12px; line-height:1.7; color:var(--muted); }
+.details summary { font-size:12px; }
+.details p { margin:8px 0; }
+.details blockquote { margin:8px 0; padding-left:10px; border-left:2px solid var(--line); }
+.details a { color:var(--green); overflow-wrap:anywhere; }
+@media(max-width:600px) { .label { font-size:13px; } .date { font-size:10px; } }

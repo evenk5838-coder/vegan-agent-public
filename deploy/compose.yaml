@@ -1,0 +1,206 @@
+name: shushi
+
+x-logging: &bounded-logging
+  driver: json-file
+  options:
+    max-size: "10m"
+    max-file: "3"
+
+services:
+  db:
+    image: postgres:17-bookworm
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: shushi
+      POSTGRES_USER: shushi
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set a private POSTGRES_PASSWORD in the approved runtime env file}
+      POSTGRES_INITDB_ARGS: --auth-host=scram-sha-256
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks: [private]
+    healthcheck:
+      test: [CMD-SHELL, 'pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"']
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 20s
+    stop_grace_period: 60s
+    logging: *bounded-logging
+
+  api:
+    image: shushi-api:${RELEASE_TAG:?Set a unique release tag before building}
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.api
+    restart: unless-stopped
+    init: true
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      APP_ENVIRONMENT: production
+      SITE_DOMAIN: ${SITE_DOMAIN:?Set the approved public domain}
+      ACME_EMAIL: ${ACME_EMAIL:?Set the certificate contact email}
+      APP_ORIGIN: https://${SITE_DOMAIN:?Set the approved public domain}
+      COOKIE_SECURE: "true"
+      DATA_DIR: /srv/data
+      POSTGRES_HOST: db
+      POSTGRES_PORT: "5432"
+      POSTGRES_DB: shushi
+      POSTGRES_USER: shushi
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set a private POSTGRES_PASSWORD}
+      WEB_CONCURRENCY: "1"
+      EXTERNAL_CALLS_ENABLED: ${EXTERNAL_CALLS_ENABLED:-false}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      DEEPSEEK_MODEL: ${DEEPSEEK_MODEL:-deepseek-flash}
+      AMAP_API_KEY: ${AMAP_API_KEY:-}
+      AMAP_JS_KEY: ${AMAP_JS_KEY:-}
+      AMAP_JS_SECURITY_CODE: ${AMAP_JS_SECURITY_CODE:-}
+      AMAP_SERVICE_HOST: /api/v1/map/proxy
+      AMAP_JS_VERIFIED: "false"
+      TRANSCRIPTION_PROVIDER: ${TRANSCRIPTION_PROVIDER:-bailian}
+      TRANSCRIPTION_API_KEY: ${TRANSCRIPTION_API_KEY:-}
+      TRANSCRIPTION_ENDPOINT: ${TRANSCRIPTION_ENDPOINT:-}
+      TRANSCRIPTION_MODEL: ${TRANSCRIPTION_MODEL:-}
+      VAPID_PUBLIC_KEY: ${VAPID_PUBLIC_KEY:-}
+      VAPID_PRIVATE_KEY: ${VAPID_PRIVATE_KEY:-}
+      VAPID_SUBJECT: ${VAPID_SUBJECT:-}
+      DAILY_EXTERNAL_LIMIT: ${DAILY_EXTERNAL_LIMIT:-10}
+      WEEKLY_EXTERNAL_LIMIT: ${WEEKLY_EXTERNAL_LIMIT:-30}
+      GLOBAL_DAILY_EXTERNAL_LIMIT: ${GLOBAL_DAILY_EXTERNAL_LIMIT:-30}
+      GLOBAL_WEEKLY_EXTERNAL_LIMIT: ${GLOBAL_WEEKLY_EXTERNAL_LIMIT:-100}
+    volumes:
+      - api_data:/srv/data
+    networks: [private, egress]
+    read_only: true
+    tmpfs:
+      - /tmp:mode=1777,size=128m
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    # The app owns an embedded job consumer; do not horizontally scale this service.
+    deploy:
+      replicas: 1
+    stop_grace_period: 60s
+    logging: *bounded-logging
+
+  web:
+    image: shushi-web:${RELEASE_TAG:?Set a unique release tag before building}
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.web
+    restart: unless-stopped
+    init: true
+    depends_on:
+      api:
+        condition: service_healthy
+    environment:
+      NODE_ENV: production
+      NEXT_TELEMETRY_DISABLED: "1"
+    networks: [private]
+    read_only: true
+    tmpfs:
+      - /tmp:mode=1777,size=64m
+      - /app/.next/cache:uid=1000,gid=1000,mode=0700,size=128m
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    stop_grace_period: 30s
+    logging: *bounded-logging
+
+  caddy:
+    image: caddy:2.10-alpine
+    restart: unless-stopped
+    depends_on:
+      api:
+        condition: service_healthy
+      web:
+        condition: service_healthy
+    environment:
+      SITE_DOMAIN: ${SITE_DOMAIN:?Set the approved public domain}
+      ACME_EMAIL: ${ACME_EMAIL:?Set the certificate contact email}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks: [private, egress]
+    logging: *bounded-logging
+
+  ops-backup:
+    profiles: [ops]
+    image: shushi-ops:${RELEASE_TAG:?Set a unique release tag before building}
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.ops
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      OPS_ROLE: backup
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set the private source database password}
+    volumes:
+      - api_data:/source-data:ro
+      - ops_backups:/backups
+      - ops_scratch:/scratch
+    networks: [private]
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    logging: *bounded-logging
+
+  restore-db:
+    profiles: [restore]
+    image: postgres:17-bookworm
+    environment:
+      POSTGRES_DB: shushi_restore
+      POSTGRES_USER: shushi_restore
+      # No fallback to the source password. Empty value makes PostgreSQL refuse startup.
+      POSTGRES_PASSWORD: ${RESTORE_POSTGRES_PASSWORD:-}
+      POSTGRES_INITDB_ARGS: --auth-host=scram-sha-256
+    volumes:
+      - restore_postgres_data:/var/lib/postgresql/data
+    networks: [private]
+    healthcheck:
+      test: [CMD-SHELL, 'pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"']
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    logging: *bounded-logging
+
+  ops-restore:
+    profiles: [restore]
+    image: shushi-ops:${RELEASE_TAG:?Set a unique release tag before building}
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.ops
+    depends_on:
+      restore-db:
+        condition: service_healthy
+    environment:
+      OPS_ROLE: restore
+      POSTGRES_PASSWORD: ${RESTORE_POSTGRES_PASSWORD:-}
+    volumes:
+      - ops_backups:/backups:ro
+      - restore_api_data:/restore-data
+      - ops_scratch:/scratch
+    networks: [private]
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    logging: *bounded-logging
+
+networks:
+  private:
+    internal: true
+  egress: {}
+
+volumes:
+  postgres_data: {}
+  api_data: {}
+  caddy_data: {}
+  caddy_config: {}
+  ops_backups: {}
+  ops_scratch: {}
+  restore_postgres_data: {}
+  restore_api_data: {}

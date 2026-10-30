@@ -1,0 +1,108 @@
+{
+  "version": "knowledge-candidates-2026-10-24",
+  "state": "local_drafts_only",
+  "source_check_by": "assistant",
+  "human_reviewer": null,
+  "published": false,
+  "entries": [
+    {
+      "candidate_id": "I01",
+      "type": "ingredient_rule",
+      "title": "本产品的三类饮食适配标准",
+      "source": "蔬食PRD v0.2 第4.1节；用户已确认的产品规则",
+      "conditions": {
+        "product_policy": true,
+        "scope": "可见配料适配，不代表认证或过敏安全"
+      },
+      "body": "纯净素排除动物成分、蛋奶蜂蜜及葱蒜韭薤洋葱；Vegan排除动物成分、蛋奶蜂蜜，允许五辛；蛋奶素允许蛋奶蜂蜜，排除其他动物成分。香菜默认允许，可独立避用。可能含有/共线提示单独保留；未知成分不默认通过。",
+      "reviewer_note": "2026-10-24由助手核对公开来源；尚无人工作为审核人签署、未发布。 解释既有产品规则，不替代确定性条目表，不宣称为宗教或全球统一标准。",
+      "status": "draft"
+    },
+    {
+      "candidate_id": "N01",
+      "type": "nutrition",
+      "title": "一般蔬食搭配的食物构成",
+      "source": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/",
+      "conditions": {
+        "audience": "一般成人饮食说明",
+        "personalized_treatment": false
+      },
+      "body": "蔬食搭配应有多样食物，可结合谷物或其他主食、豆类等蛋白来源、蔬菜水果，以及适量坚果种子和不饱和油脂。不能用只吃绿叶菜代替完整搭配；这不证明任何一道菜营养全面。",
+      "reviewer_note": "2026-10-24由助手核对公开来源；尚无人工作为审核人签署、未发布。 不计算营养克数；不把英国当地食品强化规定直接套用于国内。",
+      "status": "draft"
+    },
+    {
+      "candidate_id": "N02",
+      "type": "nutrition",
+      "title": "Vegan饮食中留意B12等可靠来源",
+      "source": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/",
+      "conditions": {
+        "audience": "一般成人Vegan饮食说明",
+        "personalized_treatment": false
+      },
+      "body": "Vegan饮食需要留意B12等营养素的可靠来源，可核对强化食品标签，必要时在专业建议下考虑补充。不将所有豆奶或酵母都默认视为强化产品，也不给个人开补充剂剂量。",
+      "reviewer_note": "2026-10-24由助手核对公开来源；尚无人工作为审核人签署、未发布。 仅为一般知识，特殊生命阶段或疾病相关需求另需专业资料。",
+      "status": "draft"
+    },
+    {
+      "candidate_id": "S01",
+      "type": "storage",
+      "title": "冷藏冷冻的温度参考",
+      "source": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_store.html",
+      "conditions": {
+        "kind": "一般温控原则",
+        "refrigerator_reference_max_c": 4,
+        "freezer_reference_max_c": -18,
+        "automatic_expiry": false
+      },
+      "body": "官方贮存指引区分4℃及以下的保鲜格与−18℃及以下的冰格。产品对应冷藏与冷冻；这些温度不是所有食材的通用天数表。包装要求与实际温度仍须核对。",
+      "reviewer_note": "2026-10-24由助手核对公开来源；尚无人工作为审核人签署、未发布。 香港用语按温度和格室含义映射；没有测得的温度不能装作传感器读数。",
+      "status": "draft"
+    },
+    {
+      "candidate_id": "S02",
+      "type": "storage",
+      "title": "剩余熟食的冷藏处理原则",
+      "source": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_leftovers.html",
+      "conditions": {
+        "food_class": "剩余熟食",
+        "storage": "refrigerated",
+        "requires_confirmed_cooling_history": true,
+        "automatic_expiry": false
+      },
+      "body": "该指引建议剩余熟食尽快冷却、2小时内放入冰箱，并弃掉冷藏超过3天的剩食。必须结合实际烹制、冷却及持续冷藏情况使用，不能从购买日期给所有食物统一倒计时。",
+      "reviewer_note": "2026-10-24由助手核对公开来源；尚无人工作为审核人签署、未发布。 与美国表部分条目的3～4天口径分别保留，不混成一条来源；本条仅知识说明。",
+      "status": "draft"
+    },
+    {
+      "candidate_id": "S03",
+      "type": "storage",
+      "title": "冷冻储存表中的月份通常表示品质参考",
+      "source": "https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts",
+      "conditions": {
+        "storage": "frozen",
+        "continuous_temperature_max_c": -18,
+        "meaning": "quality_reference",
+        "automatic_expiry": false
+      },
+      "body": "该表明确冷冻储存月份用于品质参考，前提为持续在−18℃及以下冻结。不能把其中的月份改成所有食材的安全到期日；既往温控异常也不会因为冷冻自动消失。",
+      "reviewer_note": "2026-10-24由助手核对公开来源；尚无人工作为审核人签署、未发布。 本产品P0不新增口感进度；只解释来源含义，不生成90天安全到期。",
+      "status": "draft"
+    },
+    {
+      "candidate_id": "S04",
+      "type": "storage",
+      "title": "易腐食物在高温下应更早冷藏",
+      "source": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely",
+      "conditions": {
+        "food_class": "需要冷藏的易腐食物",
+        "requires_known_exposure_start": true,
+        "requires_known_temperature": true,
+        "automatic_expiry": false
+      },
+      "body": "FDA提示需冷藏的易腐食物不应在室温放置超过2小时；环境高于90°F时缩短为1小时。这是温控风险与及时冷藏提示，不是“任意切配食材到点必变质”的检测公式。",
+      "reviewer_note": "2026-10-24由助手核对公开来源；尚无人工作为审核人签署、未发布。 高温边界与官方华氏值对应；干货、完整蔬果等不能仅凭名称含“切”套用。",
+      "status": "draft"
+    }
+  ]
+}

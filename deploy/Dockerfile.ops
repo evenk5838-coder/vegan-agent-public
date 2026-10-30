@@ -1,0 +1,16 @@
+FROM postgres:17-bookworm
+RUN apt-get update && apt-get install -y --no-install-recommends python3 python3-venv \
+    && rm -rf /var/lib/apt/lists/* \
+    && groupadd --gid 10001 shushi-ops && useradd --uid 10001 --gid 10001 --no-create-home shushi-ops
+WORKDIR /srv
+COPY deploy/requirements-ops.txt ./requirements-ops.txt
+RUN python3 -m venv /opt/ops && /opt/ops/bin/python -m pip install --no-cache-dir -r requirements-ops.txt \
+    && mkdir -p /backups /source-data /restore-data /scratch \
+    && chown 10001:10001 /backups /source-data /restore-data /scratch \
+    && chmod 0700 /backups /source-data /restore-data /scratch
+COPY scripts/ops_data.py ./scripts/ops_data.py
+COPY deploy/ops_entry.py ./deploy/ops_entry.py
+ENV PG_BINDIR=/usr/lib/postgresql/17/bin TMPDIR=/scratch OPS_TEMP_DIR=/scratch
+USER 10001:10001
+ENTRYPOINT ["/opt/ops/bin/python", "/srv/deploy/ops_entry.py"]
+CMD ["help"]

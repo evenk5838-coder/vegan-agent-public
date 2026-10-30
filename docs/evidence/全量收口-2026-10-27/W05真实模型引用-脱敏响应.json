@@ -1,0 +1,26 @@
+{
+  "format": "synthetic-citation-omission-fixture-v1",
+  "source_id": "wikibooks:101881",
+  "source_revision": 4517474,
+  "source_url": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ACrystallised+Orange+Peel&oldid=4517474",
+  "upstream_final_json": {
+    "text": "糖渍橙皮的合成测试说明。引用条目：fixture-recipe-target",
+    "needs_input": false,
+    "input_prompt": ""
+  },
+  "recalled": {
+    "fixture-recipe-target": {
+      "entry_id": "fixture-recipe-target",
+      "title": "糖渍橙皮",
+      "source": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ACrystallised+Orange+Peel&oldid=4517474"
+    }
+  },
+  "actual_provider_parsed_citations": [],
+  "actual_verified_citations": [],
+  "actual_persisted_citations": [],
+  "redactions": [
+    "Public release uses synthetic prose instead of the historical model response."
+  ],
+  "is_user_data": false,
+  "business_database_touched": false
+}

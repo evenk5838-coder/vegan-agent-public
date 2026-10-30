@@ -1,0 +1,255 @@
+{
+  "boundary": "Synthetic isolated test data only; real retired tutorial content removed on user instruction. Source IDs/URLs retained solely to replay historical citation identifiers.",
+  "samples": [
+    {
+      "pin": {
+        "source_id": "wikibooks:10049",
+        "source_url": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ACarrot+and+Raisin+Salad&oldid=4523446",
+        "kind": "synthetic_test_only"
+      },
+      "entry": {
+        "type": "recipe",
+        "title": "测试沙拉",
+        "source": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ACarrot+and+Raisin+Salad&oldid=4523446",
+        "status": "draft",
+        "ingredients": [
+          "测试原料：蜂蜜"
+        ],
+        "steps": [
+          "合成检索词：冷藏后食用"
+        ],
+        "body": "仅为离线检索回归合成的数据，不是可食用配方。",
+        "conditions": {
+          "source_id": "wikibooks:10049",
+          "source_revision": "synthetic-fixture",
+          "language": "zh-CN",
+          "quality_flags": [
+            "machine_translation_unreviewed",
+            "missing_servings"
+          ],
+          "manual_reviewed": false,
+          "machine_rules_sha256": "test-only-private-audit"
+        },
+        "source_meta": {
+          "display_language": "zh-CN",
+          "translation_quality_flags": [
+            "machine_translation_unreviewed"
+          ],
+          "translation": {
+            "status": "complete"
+          }
+        }
+      }
+    },
+    {
+      "pin": {
+        "source_id": "wikibooks:101881",
+        "source_url": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ACrystallised+Orange+Peel&oldid=4517474",
+        "kind": "synthetic_test_only"
+      },
+      "entry": {
+        "type": "recipe",
+        "title": "糖渍橙皮",
+        "source": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ACrystallised+Orange+Peel&oldid=4517474",
+        "status": "draft",
+        "ingredients": [
+          "合成数据：90克"
+        ],
+        "steps": [
+          "合成检索词：4小时、48小时、咖啡研磨机，不是食谱操作"
+        ],
+        "body": "仅为离线检索回归合成的数据，不是可食用配方。",
+        "conditions": {
+          "source_id": "wikibooks:101881",
+          "source_revision": "synthetic-fixture",
+          "language": "zh-CN",
+          "quality_flags": [
+            "machine_translation_unreviewed",
+            "missing_servings"
+          ],
+          "manual_reviewed": false,
+          "machine_rules_sha256": "test-only-private-audit",
+          "machine_diet_labels": {
+            "vegan": {
+              "status": "uncertain",
+              "unknown": [
+                "synthetic-opaque-token"
+              ]
+            }
+          }
+        },
+        "source_meta": {
+          "display_language": "zh-CN",
+          "translation_quality_flags": [
+            "machine_translation_unreviewed"
+          ],
+          "translation": {
+            "status": "complete"
+          }
+        }
+      }
+    },
+    {
+      "pin": {
+        "source_id": "wikibooks:102176",
+        "source_url": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AHoney+Mustard+Salad+Dressing&oldid=4613364",
+        "kind": "synthetic_test_only"
+      },
+      "entry": {
+        "type": "recipe",
+        "title": "蜂蜜芥末沙拉酱",
+        "source": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AHoney+Mustard+Salad+Dressing&oldid=4613364",
+        "status": "draft",
+        "ingredients": [
+          "测试原料：蜂蜜",
+          "测试原料：芥末",
+          "测试原料：红花油"
+        ],
+        "steps": [
+          "合成检索操作"
+        ],
+        "body": "仅为离线检索回归合成的数据，不是可食用配方。",
+        "conditions": {
+          "source_id": "wikibooks:102176",
+          "source_revision": "synthetic-fixture",
+          "language": "zh-CN",
+          "quality_flags": [
+            "machine_translation_unreviewed",
+            "missing_servings"
+          ],
+          "manual_reviewed": false,
+          "machine_rules_sha256": "test-only-private-audit"
+        },
+        "source_meta": {
+          "display_language": "zh-CN",
+          "translation_quality_flags": [
+            "machine_translation_unreviewed"
+          ],
+          "translation": {
+            "status": "complete"
+          }
+        }
+      }
+    },
+    {
+      "pin": {
+        "source_id": "wikibooks:106077",
+        "source_url": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AWassel&oldid=4525770",
+        "kind": "synthetic_test_only"
+      },
+      "entry": {
+        "type": "recipe",
+        "title": "测试饮品",
+        "source": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AWassel&oldid=4525770",
+        "status": "draft",
+        "ingredients": [
+          "测试原料：蔓越莓汁"
+        ],
+        "steps": [
+          "合成检索操作"
+        ],
+        "body": "仅为离线检索回归合成的数据，不是可食用配方。",
+        "conditions": {
+          "source_id": "wikibooks:106077",
+          "source_revision": "synthetic-fixture",
+          "language": "zh-CN",
+          "quality_flags": [
+            "machine_translation_unreviewed",
+            "missing_servings"
+          ],
+          "manual_reviewed": false,
+          "machine_rules_sha256": "test-only-private-audit"
+        },
+        "source_meta": {
+          "display_language": "zh-CN",
+          "translation_quality_flags": [
+            "machine_translation_unreviewed"
+          ],
+          "translation": {
+            "status": "complete"
+          }
+        }
+      }
+    },
+    {
+      "pin": {
+        "source_id": "wikibooks:106905",
+        "source_url": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ASalsa+Fresca&oldid=4525168",
+        "kind": "synthetic_test_only"
+      },
+      "entry": {
+        "type": "recipe",
+        "title": "测试加工步骤",
+        "source": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ASalsa+Fresca&oldid=4525168",
+        "status": "draft",
+        "ingredients": [
+          "测试原料：番茄"
+        ],
+        "steps": [
+          "合成检索词：食品加工机"
+        ],
+        "body": "仅为离线检索回归合成的数据，不是可食用配方。",
+        "conditions": {
+          "source_id": "wikibooks:106905",
+          "source_revision": "synthetic-fixture",
+          "language": "zh-CN",
+          "quality_flags": [
+            "machine_translation_unreviewed",
+            "missing_servings"
+          ],
+          "manual_reviewed": false,
+          "machine_rules_sha256": "test-only-private-audit"
+        },
+        "source_meta": {
+          "display_language": "zh-CN",
+          "translation_quality_flags": [
+            "machine_translation_unreviewed"
+          ],
+          "translation": {
+            "status": "complete"
+          }
+        }
+      }
+    },
+    {
+      "pin": {
+        "source_id": "wikibooks:106987",
+        "source_url": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AChunky+Guacamole&oldid=4523970",
+        "kind": "synthetic_test_only"
+      },
+      "entry": {
+        "type": "recipe",
+        "title": "测试青柠配方",
+        "source": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AChunky+Guacamole&oldid=4523970",
+        "status": "draft",
+        "ingredients": [
+          "测试原料：青柠汁"
+        ],
+        "steps": [
+          "合成检索操作"
+        ],
+        "body": "仅为离线检索回归合成的数据，不是可食用配方。",
+        "conditions": {
+          "source_id": "wikibooks:106987",
+          "source_revision": "synthetic-fixture",
+          "language": "zh-CN",
+          "quality_flags": [
+            "machine_translation_unreviewed",
+            "missing_servings"
+          ],
+          "manual_reviewed": false,
+          "machine_rules_sha256": "test-only-private-audit"
+        },
+        "source_meta": {
+          "display_language": "zh-CN",
+          "translation_quality_flags": [
+            "machine_translation_unreviewed"
+          ],
+          "translation": {
+            "status": "complete"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.root { display: grid; gap: 10px; margin-top: 12px; min-width: 0; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: 5px; border-radius: 10px; padding: 6px 9px; font-size: 12px; line-height: 1.45; }
+.tag strong { font-weight: 600; }
+.supported { color: #34553b; background: #edf2e5; }
+.on_request { color: #795b34; background: #f4edde; }
+.unknown { color: #6b7065; background: #f1f0e9; }
+.compact { display: block; color: #697660; font-size: 12px; line-height: 1.6; margin-top: 4px; overflow-wrap: anywhere; }
+.details { color: #68715f; font-size: 12px; line-height: 1.65; }
+.details summary { cursor: pointer; width: fit-content; padding: 5px 0; }
+.details summary:focus-visible { outline: 2px solid #527653; outline-offset: 3px; border-radius: 3px; }
+.notice { margin: 5px 0 10px; }
+.claim { border-top: 1px solid #e6e5db; padding: 8px 0; }
+.claim p { margin: 0; overflow-wrap: anywhere; }
+.source { display: grid; gap: 2px; padding-top: 5px; }
+.source a { color: #34553b; text-decoration: underline; text-underline-offset: 3px; }
+.source span { color: #7c8274; }

@@ -1,0 +1,42 @@
+.env
+.env.*
+!.env.example
+.venv/
+.cache/
+data/
+private-backups/
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.tsbuildinfo
+.DS_Store
+test-results/
+playwright-report/
+
+# Local secrets, runtime data, and reports
+*.pem
+*.key
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.log
+.auth/
+.coverage
+coverage/
+htmlcov/
+
+# Local operations, screenshots, review materials and private recipe exports
+output/
+*.bundle
+*.tar.gz
+.gitleaks*report*
+
+# Also ignore temporary dependency symlinks, not only real directories
+.venv
+node_modules
+.next
